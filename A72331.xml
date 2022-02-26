@@ -1,0 +1,1303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Viaticum animæ or, VVholesome repast for the soule in her pilgrimage towards Ierusalem which is above Prepared, and made ready, by the diligent search, &amp; paynes of Iohn Hodges, priest, M. of Arts and vicar of Shakerstone in Leicester-Shire.</title>
+            <author>Hodges, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1638</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 119 KB of XML-encoded text transcribed from 144 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72331</idno>
+            <idno type="STC">STC 13547</idno>
+            <idno type="STC">ESTC S125028</idno>
+            <idno type="EEBO-CITATION">99900348</idno>
+            <idno type="PROQUEST">99900348</idno>
+            <idno type="VID">150963</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1991:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Viaticum animæ or, VVholesome repast for the soule in her pilgrimage towards Ierusalem which is above Prepared, and made ready, by the diligent search, &amp; paynes of Iohn Hodges, priest, M. of Arts and vicar of Shakerstone in Leicester-Shire.</title>
+                  <author>Hodges, John.</author>
+               </titleStmt>
+               <extent>[12], 192, 192-263 [i.e. 261], [2]   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. N[orton]. for G. W[ilne]. and are to bee sold at the signe of the Spurr, under S. Mildreds Church in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 261 misnumbered 263.</note>
+                  <note>With numerous errors in pagination.</note>
+                  <note>With a final imprimitur leaf.</note>
+                  <note>Reproduction of original in the Gonville and Caius College Library, Cambridge University, Cambridge, England.</note>
+                  <note>Filmed copy at UMI Tract Supplement reel E2 a fragment, title page only.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150963:1" rendition="simple:additions"/>
+            <p>VIATICVM ANIMAE OR, <hi>VVholeſome repaſt for the Soule</hi> in her Pilgrimage towards <hi>Ie<g ref="char:EOLhyphen"/>ruſalem which is above.</hi>
+            </p>
+            <p>Prepared, and made ready, by the diligent ſearch, &amp; Paynes of <hi>Iohn Hodges,</hi> Prieſt, M. of Arts and Vicar of <hi>Shakerſtone in Leiceſter-Shire.</hi>
+            </p>
+            <q>
+               <p>NON <hi>eſt in carendo difficultas niſi quum fuerit in habendo capiditas.</hi>
+               </p> 
+               <bibl>Aug. lib. Confeſſ.</bibl>
+            </q>
+            <q>
+               <p>If God will keepe me in this iourney which I goe, and will give me Bread to eate, and Cloathes to put on; then ſhall the Lord be my God</p>
+               <bibl>Gen 28.20.21.</bibl>
+            </q>
+            <q>
+               <p>Quiſquis <hi>exit in Lucem, iuſſus eſt Lacte, et Panno eſſe contentus.</hi>
+               </p>
+               <bibl>
+                  <hi>Senec. Epiſt.</hi> 20.</bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed by J. N. for G.W. and are to bee ſold at the Signe of the <hi>Spurr,</hi> under S. <hi>Mildreds</hi> Church in the <hi>Poultrey.</hi> 1638.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150963:2"/>
+            <pb facs="tcp:150963:2"/>
+            <head>To the Worſhipfull JOHN HARBORNE of Tackley, in the County of <hi>Oxford Eſquier.</hi>
+            </head>
+            <opener>
+               <salute>Sir.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> NEVER wiſh'd my ſelfe great or rich, or if I did for a time enter<g ref="char:EOLhyphen"/>taine ſuch a thought, it was
+<pb facs="tcp:150963:3"/> only then when I was muſing how to be thank<g ref="char:EOLhyphen"/>full. Ingratitude I hate, and want ability for am<g ref="char:EOLhyphen"/>ple, and due performances; wherfore I held it better to pre<g ref="char:EOLhyphen"/>ſent a little of whatſoever came to hand,
+<pb facs="tcp:150963:3"/> then (like chur<g ref="char:EOLhyphen"/>liſh <hi>Nabal</hi>) to give nothing at all.</p>
+            <p>Here is no ban<g ref="char:EOLhyphen"/>quet royal abun<g ref="char:EOLhyphen"/>dance of daintie diſhes as though you were at home,<note place="margin">Dapes dapſi<g ref="char:EOLhyphen"/>es.</note>
+               <note place="margin">Pura &amp; ſine anima<g ref="char:EOLhyphen"/>libus eſca.</note> but a diſh of Herbs (fit for the uſe of man) right Pilgrimes
+<pb facs="tcp:150963:4"/> fare a bit and a<g ref="char:EOLhyphen"/>way: I dare not brag it ſavory for your taſte, (as fit for your graver judge<g ref="char:EOLhyphen"/>ment) this bleſ<g ref="char:EOLhyphen"/>ſing therefore which your Servant hath brought unto you let it be gi<g ref="char:EOLhyphen"/>ven I pray you
+<pb facs="tcp:150963:4"/> unto the young ones,<note place="margin">1 Sam. 15.27</note> that walke at your feete.</p>
+            <p>I was once min<g ref="char:EOLhyphen"/>ded (like the cru<g ref="char:EOLhyphen"/>el pare<g ref="char:cmbAbbrStroke">̄</g>t) to have ſlain the iſſue of my braine fro<g ref="char:cmbAbbrStroke">̄</g> the birth:<note place="margin">(Medea<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>)</note> or (like an Idolatrous <hi>Iſrae<g ref="char:EOLhyphen"/>lite</hi>) have made it paſſe through the fier, till cal<g ref="char:EOLhyphen"/>ling
+<pb facs="tcp:150963:5"/> to minde that ſaying of <hi>Plinie,</hi>
+               <note place="margin">The dregs cannot lie ſo thicke in it, but a man. may ther<g ref="char:EOLhyphen"/>out drawe ſom cleare liquor.</note> There is no book ſo bad, but may affourd ſome good; I reſolved to preſerve that which was ap<g ref="char:EOLhyphen"/>poynted to dye, and with it in the throng to preſſe into the World.</p>
+            <p>What enter<g ref="char:EOLhyphen"/>tainment
+<pb facs="tcp:150963:5"/> it is like to find with moſt, I have a ſhrewd aime, &amp; therefore ſend it to your prote<g ref="char:EOLhyphen"/>ction for ſhelter againſt a ſtorme.</p>
+            <p>For my pro<g ref="char:EOLhyphen"/>ceeding by way of application, that which is to o<g ref="char:EOLhyphen"/>thers an exhorta<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:150963:6"/> is to you an pprobation,<note place="margin">Qui mone ut facias quo diam facis ipſe, monendo</note> &amp; aco<g ref="char:cmbAbbrStroke">̄</g>mendatio<g ref="char:cmbAbbrStroke">̄</g>; for <hi>Ad bene facien<g ref="char:EOLhyphen"/>dum incitator eſt benefacientis en<g ref="char:EOLhyphen"/>comiaſtes,</hi>
+               <note place="margin">Laudat et hortatu comprobat acta ſuo.</note> 
+               <hi>perſwa<g ref="char:EOLhyphen"/>ſion</hi> to doe well is the weldoers <hi>encomium.</hi> More I would make mention of, were it but to
+<pb facs="tcp:150963:6"/> commend your exam<g ref="char:EOLhyphen"/>ple to poſterity, but I know your modeſty will rather diſlike, then allow of ſuch prayſe And therefore I leave your owne works to prayſe you in the Gates, wiſhing all the blesſings from above &amp; beneath to light up<g ref="char:EOLhyphen"/>on your head,<note place="margin">Pſal. 133. and 128.</note> yea like <hi>Aarons</hi> precious oynt<g ref="char:EOLhyphen"/>ment let them runne downe to the beard, &amp; border of your gar<g ref="char:EOLhyphen"/>ments;
+<pb facs="tcp:150963:7"/> to the fruitfull vine on the ſide of your houſe, and the Olive Plants round about your Table.</p>
+            <p>This hath bin, &amp; ſhal be the prayer of him, who deſires nothing more in this life, the<g ref="char:cmbAbbrStroke">̄</g> that hee may bee thought worthy to be your ſer<g ref="char:EOLhyphen"/>vant in <hi>Chriſt Ieſus.</hi>
+            </p>
+            <closer>
+               <signed>JOHN HODGES.</signed>
+               <dateline>From my poore Vicarage of <hi>Shackerſtone</hi> in <hi>Leicesterſhire</hi>
+                  <date>
+                     <hi>No<g ref="char:EOLhyphen"/>vember</hi> 7. 1637</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="A" type="part">
+            <pb n="1" facs="tcp:150963:7"/>
+            <head>A</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 16.31.</hi>
+                  </bibl>
+                  <p>
+                     <hi>AGE</hi> is a Crowne of Glory when it is found in the way of Righteouſnes.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt MAN is a venerable Creature, but then eſpecially when
+<pb n="2" facs="tcp:150963:8"/> antiquity preſcribes: what a ſhame then is it, when thoſe Silver locks which God hath appoynted to bee the Emblemes of honor, are by his beſt Crea<g ref="char:EOLhyphen"/>tures made the Pa<g ref="char:EOLhyphen"/>geants of co<g ref="char:cmbAbbrStroke">̄</g>tempt? We worthilie honor old men for their tempe<g ref="char:EOLhyphen"/>rance, moderation, ex<g ref="char:EOLhyphen"/>perience, &amp;c. But whe<g ref="char:cmbAbbrStroke">̄</g> their tottering Taber<g ref="char:EOLhyphen"/>nacles are ſtuft with drunkenneſſe, luſt, and
+<pb n="3" facs="tcp:150963:8"/> boyiſh thoughts how ſhall we honor them then? It is meere mockery for a boyiſh minde to be ſuited in the colours of Age;<note place="margin">
+                  <hi>Chryſ.</hi> in Heb. Hom 7.</note> and whileſt old men doe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> youth it; they become children of yeeres, and GOD makes their old Age moſt deſpiſed.<note place="margin">Vere ſene<g ref="char:EOLhyphen"/>ctus illa vene<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abilis, &amp;c.</note>
+            </p>
+            <p>Wouldſt thou then have others honor thy graie haires? doe thou firſt honor them by a
+<pb n="4" facs="tcp:150963:9"/> godly life:<note place="margin">Ambro: Epiſt. <hi>60.</hi>
+               </note> for thoſe yeeres onely are truly honorable which good works, and not hoarie haires onely doe beau<g ref="char:EOLhyphen"/>tifie and adorne. Deſire not therefore ſo much to live long, as to live well: waſt not the time, which of it ſelfe haſteth too faſt, leaſt thou be conſtrained to confeſſe, that though thou haſt reckoned many yeeres, yet thou haſt lived but a ſhort
+<pb n="5" facs="tcp:150963:9"/> time, which can no waies comfort a wick<g ref="char:EOLhyphen"/>ed life, but this Teſti<g ref="char:EOLhyphen"/>mony of a well ſpent life, is a Crowne of dignity and a moſt comfortable Poſſeſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>ALL <hi>that thine hand ſhall finde to doe, doe it with all thy power: for there is neyther worke, nor invention, nor knowledge, nor wiſe<g ref="char:EOLhyphen"/>dome in the Grave whither thou goeſt
+<pb n="6" facs="tcp:150963:10"/> Eccles</hi> 9.10.</p>
+            <p n="2">2 THIS life is a life for mercy, neyther is there any crying, or calling for mercy after it: and therefore our Saviour Chriſt ſayth, <hi>the night commeth</hi> (to wit of death) <hi>in which no man can worke.</hi>
+               <note place="margin">John. 9 4.</note> 
+               <hi>Iohn</hi> 9.4. Wherefore that thou mayſt finde the gate of Mercy open unto thee at thy depar<g ref="char:EOLhyphen"/>ture hence, ſhew mercy and doe good preſent<g ref="char:EOLhyphen"/>ly,
+<pb n="7" facs="tcp:150963:10"/> and heere;<note place="margin">Eccles 11.3.</note> for <hi>as the Tree falleth ſo it ly<g ref="char:EOLhyphen"/>eth,</hi> and thou canſt neyther imagine, nor doe any thing for thy ſalvation, and peace in the pit of darkneſſe, and of death.</p>
+            <p>ASKE <hi>not of the Lord preheminence, ney<g ref="char:EOLhyphen"/>ther of the King the ſeate of honor.</hi> Ecclus. 7.4.</p>
+            <p n="3">3 EVERY eſtate is bleſſed to a good man, who doth not ſo much conſider what or how
+<pb n="8" facs="tcp:150963:11"/> much he enjoyeth, as whence, and from whom he receiveth it: whether hee abound, or want, he knowes it is from the Lord, 1. <hi>Sam.</hi> 2.7.<note place="margin">1 Sam. 2 7</note> And he hath learnt therewith to be content. But when we once begin to give am<g ref="char:EOLhyphen"/>bition feete to trample on the good we have, wee are eaſily carried to a ſeate as tickle and ſlipery as the ſeate of <hi>Eli.</hi> 1. <hi>Sam.</hi> 14.18.<note place="margin">1 Sam. 14 18.</note> There<g ref="char:EOLhyphen"/>fore
+<pb n="9" facs="tcp:150963:11"/> if the Lord hath graunted thee the re<g ref="char:EOLhyphen"/>queſt of <hi>Agur, Pro.</hi> 30.8.<note place="margin">Pro. 30, 8.</note> And ſetled thee in ſuch an eſtate, as hee knowes beſt for thee, bleſſe GOD for the ſame, and ſeeke not to climbe thoſe Pinna<g ref="char:EOLhyphen"/>cles, of the Court where thou canſt ney<g ref="char:EOLhyphen"/>ther reſt without feare, nor come downe, without falling.</p>
+         </div>
+         <div n="B" type="part">
+            <pb n="10" facs="tcp:150963:12"/>
+            <head>B.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 15.17.</hi>
+                  </bibl>
+                  <p>
+                     <hi>BETTER</hi> is a din<g ref="char:EOLhyphen"/>ner of greene Hearbs where love is, then a stal<g ref="char:EOLhyphen"/>led <hi>Oxe</hi> and hatred there<g ref="char:EOLhyphen"/>with.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. THE Soules ſweeteſt Mu<g ref="char:EOLhyphen"/>ſicke is that bleſſed
+<pb n="11" facs="tcp:150963:12"/> cloſe, where two hearts by an unani<g ref="char:EOLhyphen"/>mous conſent meete in one body; whilſt Man and Wife doe thus (like cleane beaſts) joyne in an equall yoake, they are (like the <hi>Phi<g ref="char:EOLhyphen"/>listims</hi> Kine to <hi>Beth<g ref="char:EOLhyphen"/>ſhemeſh</hi>) in one path, and turne neyther to the right hand, nor to the left, till they arrive at Heaven. But when (like uncleane beaſts) they goe one before
+<pb n="12" facs="tcp:150963:13"/> the other, though it breeds a diſcord, yet there is no good Mu<g ref="char:EOLhyphen"/>ſicke, <hi>Aarons</hi> Bells doe not then ring but jan<g ref="char:EOLhyphen"/>gle: and better is it to feede in the wilder<g ref="char:EOLhyphen"/>neſſe upon greene Herbs; then to feaſt it with contentious ſpi<g ref="char:EOLhyphen"/>rits in a ſtatly Palace.</p>
+            <p>Be not therefore like unto uncleane but faſhion thy ſelfe to the ſimilitude of cleane beaſts, ſtrive not for
+<pb n="13" facs="tcp:150963:13"/> priority, but joyne in that equall yoake of love, which is the <hi>Mu<g ref="char:EOLhyphen"/>ſicke of a pleaſant ban<g ref="char:EOLhyphen"/>quet, an Emerauld well trimmed with Gold.</hi> Ecclus 32.6.<note place="margin">Ecclus. 32 6.</note>
+            </p>
+            <p>BOAST <hi>not thy ſelfe of to morrow, for thou knowest not what a day may bring forth.</hi> PRO. 27.1.</p>
+            <p n="2">2 WEE eaſily put off the worke of our Re<g ref="char:EOLhyphen"/>pentance, and though God call us to it every
+<pb n="14" facs="tcp:150963:14"/> day, yet we ſay to him as the unmercifull Man to his neighbour, <hi>Come againe to morrow.</hi>
+               <note place="margin">Pro. 3.28.</note> 
+               <hi>Pro.</hi> 3.28. To morrow ſay we, we will repent, when GOD knowes whether we ſhall live till then: or if we doe live til to morrow, yet wee know not what the Day may bring with it.</p>
+            <p>Walke therefore whilſt thou haſt the light, and whilſt thou
+<pb n="15" facs="tcp:150963:14"/> mayſt be ſaved ſtrive to ſalvation by the light of the Goſpell, leaſt when it is removed, the darkneſſe of error &amp; deſpaire doth come, and then in the darke thou goe thou knowſt not whether.</p>
+            <p>BINDE <hi>not two ſins together, for in one ſinne ſhalt thou not be unpuni<g ref="char:EOLhyphen"/>ſhed.</hi> Ecclus 7.8.</p>
+            <p n="3">3 ONE ſcarre may ſtaine the beauty of the faireſt face, one diſ<g ref="char:EOLhyphen"/>eaſe
+<pb n="16" facs="tcp:150963:15"/> may bee as dan<g ref="char:EOLhyphen"/>gerous and deady as many; and one ſinne which a Man conti<g ref="char:EOLhyphen"/>nues in without Re<g ref="char:EOLhyphen"/>pentance, may bee as damnable, as if there were a Legion.</p>
+            <p>
+               <hi>Hast thou therefore ſinned? doe ſo no more, but pray for thy fore<g ref="char:EOLhyphen"/>ſinnes that they may bee forgiven thee.</hi>
+               <note place="margin">Ecclus. 21.</note> Ecclus 21.1. Say not thou of any ſinne, as <hi>Lot</hi> of <hi>Zoar, is it not a little one?</hi>
+               <note place="margin">1. Gen. 19.20</note> 
+               <hi>Gen.</hi>
+               <pb n="17" facs="tcp:150963:15"/> 19.20. I ſhall receive no damage by it: alas, alas, a little ſinne im<g ref="char:EOLhyphen"/>brac'd, a greater will ſollicite for entertain<g ref="char:EOLhyphen"/>ment, and no deniall will ſerve, till it finde acceptance: caſt a ſtone into the water, and preſently a circle ariſeth, after that another, and another, greater, and greater, till at length the whole water bee full of circles: ſo ad<g ref="char:EOLhyphen"/>mit of one ſinne, per<g ref="char:EOLhyphen"/>haps
+<pb n="18" facs="tcp:150963:16"/> (in thine account) a ſmale one, and a grea<g ref="char:EOLhyphen"/>ter will follow, till at length the whole Man be full of ſinne.</p>
+         </div>
+         <div n="C" type="part">
+            <head>C</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ECCLES 11.1.</hi>
+                  </bibl>
+                  <p>
+                     <hi>CAST</hi> thy bread upon the waters, for after many dayes thou ſhalt finde it.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. THE poore Mans hand is Chriſts
+<pb n="19" facs="tcp:150963:16"/> treaſury,<note place="margin">Petr. Ra<g ref="char:EOLhyphen"/>ve <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>in quo<g ref="char:EOLhyphen"/>dam ſerm.</note> and whatſo<g ref="char:EOLhyphen"/>ever is put into it that Chriſt receives, and keepes it ſafe for thee againſt the evill day, that when neede is it may comfort and re<g ref="char:EOLhyphen"/>freſh thy loynes.</p>
+            <p>Give therefore, but deſire not witneſſe to the bargaine; truſt God for recompence upon his word, <hi>Sound not a trumpet when thou givest thyne almes. Mat.</hi> 6.2.<note place="margin">Mat. 6.2.</note> Leaſt thou appeare ra<g ref="char:EOLhyphen"/>ther
+<pb n="20" facs="tcp:150963:17"/> like an enemy then a charitable giver. Give earthly traſh that thou mayſt have heavenly treaſure; give a morſell, and receive a whole loafe, nay <hi>as many as thou needest.</hi>
+               <note place="margin">Luke 11.8</note> 
+               <hi>Luke</hi> 11.8. Give that it may bee given unto thee for what thou giveſt that thou ſhall have, but what thou giveſt not,<note place="margin">Flores doct.</note> that another ſhall take from thee.</p>
+            <p>CHASTEN <hi>thy ſonne
+<pb n="21" facs="tcp:150963:17"/> while there is hope, and let not thy ſoule ſpare for his murmuring. Pro.</hi> 19.14.</p>
+            <p n="2">2 CHILDREN are compared to arrowes, and <hi>he is an happy Man that hath his quiver full of them. Pſal.</hi> 127.4.<note place="margin">
+                  <hi>Pſal.</hi> 127.4</note> But if for want of Godly diſcipline, and whole<g ref="char:EOLhyphen"/>ſome inſtruction they chance to prove ar<g ref="char:EOLhyphen"/>rowes in their parents ſide, how dangerouſly doe they wound and peirce then?</p>
+            <pb n="22" facs="tcp:150963:18"/>
+            <p>
+               <hi>Doe</hi> not therefore out of an hurtfull pit<g ref="char:EOLhyphen"/>ty, <hi>withhold correction from thy childe, but ſmite him in affection with the rod,</hi>
+               <note place="margin">Pro. 23.23.</note> 
+               <hi>Pro.</hi> 23.13. <hi>And ſo ſhall he give thee reſt, and minister bleſſing to thy ſoule.</hi>
+               <note place="margin">Pro. 29.17</note> 
+               <hi>Pro.</hi> 29.17.</p>
+            <p>CONFIDENCE <hi>in an unfaithfull man in time of trouble is like a broaken tooth, and a ſliding foote Pro.</hi> 25.19.</p>
+            <p>A FAITHFVLL friend is an ineſti<g ref="char:EOLhyphen"/>mable
+<pb n="23" facs="tcp:150963:18"/> jewell, hee that finds him though hee ſell all that he hath for the purchaſe, yet ſhall he be no looſer by the bargaine; for ſuch an one ſticks cloſe to a Man, not being ca<g ref="char:EOLhyphen"/>pable of change, yea, <hi>cloſer then a brother.</hi>
+               <note place="margin">Pro. 18.24</note> 
+               <hi>Pro.</hi> 18.24. The heate of per<g ref="char:EOLhyphen"/>ſecution ſcorches him not, the waves of troubles daſh him not away, but <hi>he loveth at all times. Pro.</hi> 17.17.<note place="margin">Pr.o. 17.17</note> there
+<pb n="24" facs="tcp:150963:19"/> is indeede a friend which like the glow-Worme promiſeth a ſufficient light, but when you thinke to lay hold on him, hee ſlideth away like wa<g ref="char:EOLhyphen"/>ter graſped with the hand, and deceives your truſt.</p>
+            <p>Therefore haſt thou gained a faithful friend cloſet him in thine heart <hi>&amp; thin owne friend and thy fathers friend for<g ref="char:EOLhyphen"/>ſake thou not.</hi>
+               <note place="margin">Pro. 27.10.</note> 
+               <hi>Pro.</hi> 27.10.
+<pb n="25" facs="tcp:150963:19"/> For ſuch an one is long ſought, ſeldome found, and as hardly kept. Pre<g ref="char:EOLhyphen"/>ſerve him therefore by love; for as fire is not better kindled then by fire, ſo love is not bet<g ref="char:EOLhyphen"/>ter maintained then by love, and if thou labour by this meanes to keepe him, thou reſerveſt a treaſure that will never be ſpent, and ſhalt finde a River that will never be dryed up.</p>
+         </div>
+         <div n="D" type="part">
+            <pb n="26" facs="tcp:150963:20"/>
+            <head>D</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 6.5.</hi>
+                  </bibl>
+                  <p>
+                     <hi>DOTH</hi> the wild <hi>Aſſe</hi> bray when hee hath graſſe? or loweth the <hi>Oxe</hi> when hee hath fodder?</p>
+               </q>
+            </epigraph>
+            <p n="1">1. THE brute beaſts though natu<g ref="char:EOLhyphen"/>rally wild, doe not yet complaine when they have that which is ſufficient for
+<pb n="27" facs="tcp:150963:20"/> them: onely man is of an unbounded deſire, and cannot content himſelfe when his hands are full of Gods blesſings; but greedily hunting after more, he even looſeth that which already he hath, catching like <hi>Eſops</hi> dog at a vaine ſhadow.</p>
+            <p>Learne therefore in every eſtate to content thy ſelfe, and be ready with <hi>Iacob</hi> to confeſſe, that thou art <hi>leſſe then
+<pb n="28" facs="tcp:150963:21"/> the leaſt of Gods mercies: Gen.</hi> 32.10.<note place="margin">Gen. 32.10.</note> And ſo ſhalt thou with a greate deale of eaſe weede out that vice, which to others is death to pluck up, it is ſo firmly roo<g ref="char:EOLhyphen"/>ted in their hearts.</p>
+            <p>DID <hi>not I weepe with him that was in trouble? was not my ſoule in heavineſſe for the poore? Iob.</hi> 30.25.</p>
+            <p n="2">2 CHRIST Ieſus is that <hi>good Shepherd.</hi>
+               <note place="margin">John 10.11</note> 
+               <hi>Iohn.</hi> 10.11. And all Man<g ref="char:EOLhyphen"/>kinde
+<pb n="29" facs="tcp:150963:21"/> elect and repro<g ref="char:EOLhyphen"/>bate are ſheepe: but that good Shepheard knowes his owne, and <hi>who are his.</hi> 2 <hi>Tim.</hi> 2.19.<note place="margin">2 Tim. 2.19.</note> hee hath ſet his marke upon them that they may be knowne.<note place="margin">Revel. 7.3.</note> 
+               <hi>Reve.</hi> 7.3. And though ſome<g ref="char:EOLhyphen"/>time the ſcabbed may breake into his good Paſture and bee blen<g ref="char:EOLhyphen"/>ded among his ſounde ſheepe, yet hee will feede them with judg<g ref="char:EOLhyphen"/>ment, and by his brand
+<pb n="30" facs="tcp:150963:22"/> judge betweene ſheepe and ſheepe.<note place="margin">Ezek. 34.6.17.</note> 
+               <hi>Ezek.</hi> 34.16, 17. Now the onely brand-marke I read of, by which Chriſt at the greate Audit will diſtinguiſh betweene the cleane and un<g ref="char:EOLhyphen"/>cleane, ſheepe and fil<g ref="char:EOLhyphen"/>thy Goates, is love which conſiſts in af<g ref="char:EOLhyphen"/>fection; and action, in mercy and compasſion. The workes of tender affection ſhall beare all the weight at the laſt
+<pb n="31" facs="tcp:150963:22"/> day, <hi>Come yee bleſſed of my Father, receive the Kingdome prepared for you, for when I was an hungry ye gave me meete, when I was naked yee cloathed me, ſicke and in priſon yee viſited mee. Mat.</hi> 25.34.36.<note place="margin">Mat. 25.30.36.</note> There is no better meanes whereby to become gracious before GOD and good men.</p>
+            <p>Let not them then that mourne be with<g ref="char:EOLhyphen"/>out comfort, but <hi>weepe
+<pb n="32" facs="tcp:150963:23"/> with them that weepe. Rom.</hi> 12.15.<note place="margin">Rom. 12.15 &amp; Ecclus 7.34.</note> 
+               <hi>Hide not thy ſelfe from thine owne fleſh, then ſhall thy light breake forth as the mor<g ref="char:EOLhyphen"/>ning, and thy health ſhall grow ſpeedily.</hi>
+               <note place="margin">Eſai. 58 78</note> 
+               <hi>Eſay</hi> 58.7.8.</p>
+            <p>DEPART <hi>from the fooliſh man when thou perceivest not in him the lips of knowledge. Pro.</hi> 14.7.</p>
+            <p n="3">3 AN VNVVISE man is like a lazie travailer who beholding in his
+<pb n="33" facs="tcp:150963:23"/> way the pleaſant fields, ſtands gazing upon them ſo long that hee forgets whether hee is going.</p>
+            <p>Separate therefore from ſuch an one, and goe not with him, for he will bee as thornes in thy way, and as clogs to thy feete: with the Worlds vanities hee will ſo blocke up thy way, that hardly ſhalt thou arive at Heaven, or ſo much as thinke
+<pb n="34" facs="tcp:150963:24"/> whither hou art going: But <hi>deſire rather to heare all godly talke, and let not the grave ſentences of knowledge depart from thee. Ecclus</hi> 6.36.<note place="margin">Ecclus 6 36.</note>
+            </p>
+         </div>
+         <div n="E" type="part">
+            <head>E.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 1.32.</hi>
+                  </bibl>
+                  <p>
+                     <hi>EASE</hi> ſlayeth the fooliſh, and the proſperity of fooles destroyeth them.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. GOOD things perverted prove moſt hurtfull,
+<pb n="35" facs="tcp:150963:24"/> neyther doth a man of<g ref="char:EOLhyphen"/>fend more, then in the abuſe of Gods good Creatures: when Gods good blesſings rocke, the fooliſh worldling preſently nodds, and dreames of nothing elſe but mighty barnes, which ſudainely drop downe, and deſtroye him laughing.</p>
+            <p>Deſire not therefore ſo much a greate eſtate as how to uſe it well, to Gods glory, thine
+<pb n="36" facs="tcp:150963:25"/> owne comfort, and the benefit of thy brethren, eſpecially thoſe who are of <hi>the houſe-hold of faith.</hi>
+               <note place="margin">Galat 6.10</note> 
+               <hi>Gal.</hi> 6.10. And the rather conſidering thy ſelfe to be but a ſtew<g ref="char:EOLhyphen"/>ard of what thou calſt thine owne, who art bound to give a ſtrict account.<note place="margin">Luke 16.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Luke</hi> 16.2.</p>
+            <p>EVILL <hi>Men ſhall bow before the good, and the wicked at the gate of the Rigteous.</hi> Pro. 14.19.</p>
+            <p n="2">2 THE godly though
+<pb n="37" facs="tcp:150963:25"/> poore ſhall have obey<g ref="char:EOLhyphen"/>ſance done unto them, and the wicked Rich ſhall doe it, and though by reaſon of the body of ſin which the godly beare about them, this comes not daylie to paſſe: yet at laſt <hi>Such ho<g ref="char:EOLhyphen"/>nour have his Saints.</hi> Yea and many times in this life proud <hi>Haman</hi> ſhall honour deſpiſed <hi>Mor<g ref="char:EOLhyphen"/>decai. Heſ.</hi> 6.10.<note place="margin">Heſt 9.10</note>
+            </p>
+            <p>Seeſt thou then a godly poore Man, deſ<g ref="char:EOLhyphen"/>piſe
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="36" facs="tcp:150963:26"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="37" facs="tcp:150963:26"/>
+               <pb n="40" facs="tcp:150963:27"/> perhappes imagining their torments will be the more tolerable, while they ſuffer not beyond compariſon: for this end (like the Devill their Father) their <hi>Table</hi> ſhal be their <hi>Snare,</hi> and as he by an Apple, ſo they with their dainties wil ſeeke to ſeduce.</p>
+            <p>If then thou ſit at their coſtly <hi>Tables</hi> open not thy mouth wide upon it, and ſay not, be<g ref="char:EOLhyphen"/>hold
+<pb n="41" facs="tcp:150963:27"/> much meate,<note place="margin">Ecclus 31 12. &amp; 16.</note> 
+               <hi>Eccl.</hi> 31.12. Eate modeſtlie that which is ſet before thee, and devour not, leaſt thou be hated .16. For howſoever they pretend kindneſſe, yet death is in their potts, and like deſſembling <hi>Iael,</hi> they feede where they intend to kill.<note place="margin">Judge 4.19</note> 
+               <hi>Iudg.</hi> 4.19. Hold thee there<g ref="char:EOLhyphen"/>fore contented with what thou haſt, bee it litle or be it much, for it is a miſerable thing
+<pb n="42" facs="tcp:150963:28"/> to goe from houſe to houſe, and the poore mans life in his owne lodge,<note place="margin">Ecclus 29.24, 25, 26.</note> is better then de<g ref="char:EOLhyphen"/>licate fare in another Mans.</p>
+         </div>
+         <div n="F" type="part">
+            <head>F</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 18.15.</hi>
+                  </bibl>
+                  <p>
+                     <hi>FEARE</hi> ſhall dwell in the houſe of the wicked be<g ref="char:EOLhyphen"/>cauſe it is not his, and brimstone ſhall bee ſcat<g ref="char:EOLhyphen"/>tered upon his habitation.</p>
+               </q>
+            </epigraph>
+            <p n="1">
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>1. THE Poets faigne that when <hi>Plutos</hi>
+               <pb n="43" facs="tcp:150963:28"/> comes from <hi>Iupiter</hi> hee is ſlow of foote, but when <hi>Pluto</hi> ſends him he comes running, gi<g ref="char:EOLhyphen"/>ving us thereby to un<g ref="char:EOLhyphen"/>derſtand, that when Men waxe rich by ho<g ref="char:EOLhyphen"/>neſt meanes they are long a thriving, but when it comes in the Devills name, <hi>an heri<g ref="char:EOLhyphen"/>tage is hastelie gotten at the beginning.</hi> Pro. 20.21.<note place="margin">Pro. 20.21.</note> Which while men luſt after, <hi>they erre from the faith and peirce them<g ref="char:EOLhyphen"/>ſelves
+<pb n="44" facs="tcp:150963:29"/> through with many ſorrowes.</hi>
+               <note place="margin">1 Tim. 6.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 1 Tim. 6.10. And the end thereof ſhall not bee bleſſed. Nay, though Men doe by right and wrong ſeeke to encreaſe their eſtates, hoping thereby to rayſe them an indu<g ref="char:EOLhyphen"/>ring name, yet (vaine hopes of worldly men) they doe but foſter a ſe<g ref="char:EOLhyphen"/>cret theife, and coffer up that, which will canker, ruſt, and bring all to confuſion; thus
+<pb n="45" facs="tcp:150963:29"/> gaping after eternity, <hi>they are cut off in the mid<g ref="char:EOLhyphen"/>dest of their daies, and at their end they are fooles.</hi> Ier. 17.11.<note place="margin">Jer. 17.11</note>
+            </p>
+            <p>If then thou deſireſt to have thine eſtate bleſſed unto thee, and to remaine with com<g ref="char:EOLhyphen"/>fort to thy poſterity, de<g ref="char:EOLhyphen"/>fraud no man, bring not home a pennie which thou haſt un<g ref="char:EOLhyphen"/>juſtly gotten; remem<g ref="char:EOLhyphen"/>ber that <hi>the riches of va<g ref="char:EOLhyphen"/>nity ſhall deminiſh, and
+<pb n="46" facs="tcp:150963:30"/> the houſe of the wicked ſhall be deſtroyed.</hi>
+               <note place="margin">Pro. 13.11 &amp; 14.11.</note> Pro. 13.11. and 14.11. And as in the winnowing of Corne, whilſt it is ſha<g ref="char:EOLhyphen"/>ken up and downe,<note place="margin">Chryſ. in Mat. ex Buſaei. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> we ſee the purer graine by litle and litle fall to the ground, whilſt the Chaffe only remaineth in the ſeive: So while men ſhuffle, and cut in the World, poaſting up and downe to en<g ref="char:EOLhyphen"/>creaſe, their eſtates by any meanes, that which
+<pb n="47" facs="tcp:150963:30"/> they have well gotten ſlides away, and no<g ref="char:EOLhyphen"/>thing remaines unto them but ſinne, and a guiltie conſcience pur<g ref="char:EOLhyphen"/>ſuing them with hor<g ref="char:EOLhyphen"/>rour, for what they have unjuſtly gotten.</p>
+            <p>FALSE <hi>ballances are in abomination unto the Lord, but a perfect weight pleaſeth him.</hi> Pro. 11.1.</p>
+            <p n="2">2 DECEIPT is a ſinne, as ancient as the World, and with it
+<pb n="48" facs="tcp:150963:31"/> tooke its beginning. <hi>Gen.</hi> 3.<note place="margin">Gen. 3.</note> It was firſt in<g ref="char:EOLhyphen"/>vented by the Devill, and by him exerciſed upon the woman: the woman ſeduced the Man and ſo ſubverted him, whoſe comfor<g ref="char:EOLhyphen"/>ter ſhee ſhould have bin. Since it hath ſo propagated, as that now nothing is more uſuall then for the fa<g ref="char:EOLhyphen"/>ther to deceive the ſon, the childe the Father, and for a craftie Law<g ref="char:EOLhyphen"/>yer
+<pb n="49" facs="tcp:150963:31"/> to deceive them both neither doth the ſeede of the Serpent reſt there only; but for brother to deceive bro<g ref="char:EOLhyphen"/>ther is ordinary, and for one man to deceive a<g ref="char:EOLhyphen"/>nother, is as common as trading; among whom <hi>the Ephah</hi> (that is the meaſure) <hi>ſhall bee ſmale, but the Shekel</hi> (that is the price) <hi>ſhall be greate, and the waights ſhall bee falſified by de<g ref="char:EOLhyphen"/>cept,</hi> Amos 8.5.<note place="margin">
+                  <hi>Amos</hi> 8.5.</note> 
+               <hi>All which
+<pb n="50" facs="tcp:150963:32"/> are an abomination unto the Lord:</hi>
+               <note place="margin">Dut. 25.16.</note> Deut. 25.16.</p>
+            <p>Let it therefore bee thy dayly care, to be true and juſt in all thy dea<g ref="char:EOLhyphen"/>lings, this being the <hi>will of God, even your ſan<g ref="char:EOLhyphen"/>ctification, That no man oppreſſe or defraude his brother in any matter: God being the avenger of all ſuch things.</hi>
+               <note place="margin">1 Theſ. 4.6.</note> 1 Theſ. 4.6. Agreing where<g ref="char:EOLhyphen"/>unto is that of S. <hi>Au<g ref="char:EOLhyphen"/>stine.</hi>
+               <note place="margin">Auguſt. ſerm. <hi>215.</hi> de <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emp.</note> No Man ma<g ref="char:EOLhyphen"/>keth an unjuſt gaine
+<pb n="51" facs="tcp:150963:32"/> without a juſt loſſe, where the one is, there will the other be alſo; the gaine in the Cheſt, the loſſe in the conſci<g ref="char:EOLhyphen"/>ence, which the whole Worlds profit cannot countervaile, nor make a Man a ſaver by his bargaine.</p>
+            <p>FAIRE <hi>words are as an Hony combe ſweetneſſe to the ſoule, and health to the bones.</hi> Pro. 16.24.</p>
+            <p n="3">3 THE <hi>Horſe, the Camel,</hi> the <hi>Elephant,</hi> the
+<pb n="52" facs="tcp:150963:33"/> 
+               <hi>Lyon,</hi> &amp;c. Are not natu<g ref="char:EOLhyphen"/>rally tame, but that they may become gentle, and ſerviceable, mans helping hand muſt be layd too: yet when this little weeping-maſter of all Gods Creatures hath thus played the Man in ſubduing o<g ref="char:EOLhyphen"/>thers, himſelfe main<g ref="char:EOLhyphen"/>taines an unruly Rebell within himſelfe, ready to overthrow the whole body of Man, the litle Model of a Co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mon
+<pb n="53" facs="tcp:150963:33"/> Wealth which as S. <hi>Iames</hi> ſpeakes is <hi>The tongue,</hi>
+               <note place="margin">Jam. 3 7.8.</note> 
+               <hi>an unruly e<g ref="char:EOLhyphen"/>vill that no Man can tame.</hi> Iames 3.7.8. <hi>Bleſſed is the Man that hath not fal<g ref="char:EOLhyphen"/>len by the word of his mouth.</hi> Ecclus 14.1.<note place="margin">Ecclus 41.1.</note> 
+               <hi>For he that keepeth his mouth and his tongue, keepeth his ſoule from afflictions.</hi> Pro. 21.23.<note place="margin">Pro. 21.23.</note> 
+               <hi>But hee that openeth his lips unadvi<g ref="char:EOLhyphen"/>ſedly destruction ſhall bee to him.</hi> Pro. 13.3.<note place="margin">Pro. 13.3</note>
+            </p>
+            <p>Doſt thou then finde
+<pb n="54" facs="tcp:150963:34"/> thy ſelfe addicted to ſwearing, and other a<g ref="char:EOLhyphen"/>buſes of the tongue? why then betake thy ſelfe to God, implore his aide, for though <hi>the preparation of the heart in Man, yet the anſ<g ref="char:EOLhyphen"/>were of the tongue is of the Lord.</hi> Pro. 16.1.<note place="margin">Pro. 16.1.</note> Pray therefore with <hi>David, Set a watch,</hi>
+               <note place="margin">Pſal. 141 3</note> 
+               <hi>O Lord be<g ref="char:EOLhyphen"/>fore my mouth, and keepe the dore of my lipes.</hi> Pſal. 141.3.<note place="margin">Pſal. 141.3</note> 
+               <hi>O Lord Father and governour of all my whole
+<pb n="55" facs="tcp:150963:34"/> life leave me not to their counſell, and let me not fall by them</hi> Ecclus 23.1.<note place="margin">Ecclus 23.1</note>
+            </p>
+            <p>
+               <hi>Set a watch before my mouth, and a ſeale of Wiſ<g ref="char:EOLhyphen"/>dome upon my lips, that I fall not ſuddenly by them, and that my tongue destroy mee not.</hi> Ecclus 22.26.<note place="margin">Eccles 22.26.</note>
+            </p>
+         </div>
+         <div n="G" type="part">
+            <pb n="56" facs="tcp:150963:35"/>
+            <head>G</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 32.9.</hi>
+                  </bibl>
+                  <p>
+                     <hi>GREAT</hi> men are not alwayes wiſe, neyther doe the aged alwayes un<g ref="char:EOLhyphen"/>derstand judgment.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. AS ſicke Men convert whole<g ref="char:EOLhyphen"/>ſome meates into the nature of the diſeaſe they labour off; So doe
+<pb n="57" facs="tcp:150963:35"/> evill Men ſubvert good, that it becomes exceedingly bad: Wit, and Learning without grace; is worſe then ho<g ref="char:EOLhyphen"/>niſt ſottiſhneſſe: the greateſt Clarkes are not alwayes the holieſt Men. Seldome hath their bin any great er<g ref="char:EOLhyphen"/>rour in Gods Church, which hath not beene the of-ſpring of ſome great wit: What hath brought foorth a<g ref="char:EOLhyphen"/>mongſt us, our <hi>Separa<g ref="char:EOLhyphen"/>tists,</hi>
+               <pb n="58" facs="tcp:150963:36"/> or <hi>Phariſes,</hi> and o<g ref="char:EOLhyphen"/>ther troublers of our Church? but an over<g ref="char:EOLhyphen"/>weening conceipt of their owne worth and learning; all ages have proved, that there was never any that did ſo much miſchiefe in the Church of GOD, as thoſe who for wit and learning have bin moſt Eminent.</p>
+            <p>Haſt thou then knowledge, wit, lear<g ref="char:EOLhyphen"/>ning, &amp;c. Pray hard for
+<pb n="59" facs="tcp:150963:36"/> a good ſpirit from God to guide and direct thee in thy proceedings.</p>
+            <p>I reade of a ſweete anſwer which one <hi>Wil<g ref="char:EOLhyphen"/>liam Times</hi> made to thoſe bloudy butchers <hi>Winchester</hi> and <hi>Bonner,</hi>
+               <note place="margin">Acts and Monum:</note> being convented be<g ref="char:EOLhyphen"/>fore them: <hi>Times</hi> ſayd the Biſhops thou haſt a good freſh ſpirit, it were well, if thou hadſt learning to thy ſpirit, yea my Lord ſayd <hi>Times,</hi> and it were well
+<pb n="60" facs="tcp:150963:37"/> alſo, that you are lear<g ref="char:EOLhyphen"/>ned ſo you had good ſpirits to your learn<g ref="char:EOLhyphen"/>ing.</p>
+            <p>To the Serpent joyne the Dove, both together will doe ex<g ref="char:EOLhyphen"/>cellent: but if they be ſevered, let the World ſay what it will, a dram of holineſſe is better then a pound of wit; for it is not policie, but pietie, not wit, but wiſ<g ref="char:EOLhyphen"/>dome that eſcaps dam<g ref="char:EOLhyphen"/>nation.</p>
+            <pb n="61" facs="tcp:150963:37"/>
+            <p>GOD <hi>will lay up the ſorrowes of the Father for the children; when he re<g ref="char:EOLhyphen"/>wardeth him hee ſhall know it.</hi> Iob. 21.29.</p>
+            <p n="2">2 THE <hi>ſoule that ſinneth it ſhall die; doth <milestone type="tcpmilestone" unit="unspecified" n="4"/> God then pervert judg<g ref="char:EOLhyphen"/>ment! or doth the Al<g ref="char:EOLhyphen"/>mighty ſubvert justice?</hi>
+               <note place="margin">Joh 8 3.</note> 
+               <hi>that the ſinnes of the Fa<g ref="char:EOLhyphen"/>thers ſhould bee viſited upon the children,</hi>
+               <note place="margin">Exod 20.5</note> 
+               <hi>and that the ſower Grapes which they have eaten ſhould ſet their childrens</hi>
+               <note place="margin">Jer. 31.29.</note>
+               <pb n="62" facs="tcp:150963:38"/> 
+               <hi>teeth or edge?</hi> Surely no, but it is commonly ſeene that wicked fa<g ref="char:EOLhyphen"/>thers have children like themſelves, who make their fathers ſins their owne by imitation; and therefore as Princes doe with equity diſ<g ref="char:EOLhyphen"/>inherit the poſterity of Traytors; ſo wicked children having their fathers ſinnes, and their owne upon their heads, they are Traytors them<g ref="char:EOLhyphen"/>ſelves to God; and ſo
+<pb n="63" facs="tcp:150963:38"/> are much more juſtly puniſhed of the Lord.</p>
+            <p>Goe not then about to charge God falſlie, neyther doe thou cavill at him, or finde fault at his juſt proceedings; The Law allowes the heire, or executor to be ſued for the fathers debt, and what in<g ref="char:EOLhyphen"/>juſtice is it in God, to proceede in like man<g ref="char:EOLhyphen"/>ner?<note place="margin">Pſal. 101.2</note> 
+               <hi>Walke therefore in the uprightneſſe of thine heart in the middest of
+<pb n="64" facs="tcp:150963:39"/> thine houſe,</hi> that thou mayſt neyther hearten thy familie in evill, nor hinder them in that which is good.</p>
+            <p>GIVE <hi>admonition to the wiſe, and he will be the wiſer; teach a righteous Man, and he will encreaſe in learning.</hi> Pro. 9. verſ. 9.</p>
+            <p n="3">
+               <note place="margin">Pſal. 133.</note> 3 AS <hi>the costly oynt<g ref="char:EOLhyphen"/>ment on Aarons head,</hi> ſo is admonition to a good Man, it breakes not his head but as that <hi>ranne downe to his beard
+<pb n="65" facs="tcp:150963:39"/> and ſo to the border of his garment</hi> ſo doth this diſtill into all the paths &amp; faculties of ſoule and body, ſuppling and ſoftning the hearte, that grace may worke up<g ref="char:EOLhyphen"/>on it to ſalvation.</p>
+            <p>Submit therefore to reproofe, whether it be by gentle admonition from thy friend, or by open reviling from thine enemie: for how<g ref="char:EOLhyphen"/>ſoever it proceede from malice in him, and bee
+<pb n="66" facs="tcp:150963:40"/> done with a deſire of revenge, yet thou maiſt make good uſe of it: for admit thou be not guilty of the particular things he chargeth thee with, yet it may bee thou art faulty in ſome other things, which God would chaſtiſe in thee by this meanes.<note place="margin">Seneca de moribus</note> Bee not thou like the dull beaſt who can hardly be put forward with Spur or Switch, whereas the more
+<pb n="67" facs="tcp:150963:40"/> noble Steede is ruled by the ſhaddow of the rod onely; regard cor<g ref="char:EOLhyphen"/>rection,<note place="margin">Pro. 13.18</note> and ſo ſhalt thou bee honoured;<note place="margin">2 Sam. 16.10.</note> Thus was it with <hi>Da<g ref="char:EOLhyphen"/>vid</hi> when <hi>Shimei</hi> railed on him, whom before he reviled, he preſent<g ref="char:EOLhyphen"/>ly after honoured, and ſo ſhall it be with thee,<note place="margin">2 Sam. 19.18.</note> and with every one that receiveth inſtruction.</p>
+         </div>
+         <div n="H" type="part">
+            <pb n="68" facs="tcp:150963:41"/>
+            <head>H.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 10. Verſ. 5.</hi>
+                  </bibl>
+                  <p>
+                     <hi>HEE</hi> that gathereth in Summer is the ſonne of wiſedome: but hee that ſleepeth in harvest; is the ſonne of confuſion.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. THERE are a ſort of people in the World, who are conceipted that it is not according to their
+<pb n="69" facs="tcp:150963:41"/> Birth, and breeding, to ſpend their time in la<g ref="char:EOLhyphen"/>bour; and that there is no better way to ma<g ref="char:EOLhyphen"/>nifeſt their gentility, then with the <hi>Nagros</hi> (noble Men amongſt the <hi>Malabars</hi> in the Eaſt <hi>Indies</hi>) by wearing long nailes on their hands, to ſhew they are no workers; but whi<g ref="char:EOLhyphen"/>leſt they thus <hi>follow the idle,</hi>
+               <note place="margin">Pro. 28.19</note> who ſeeth not how ſuddenly <hi>they are filled with poverty; which
+<pb n="70" facs="tcp:150963:42"/> comes upon them like an armed man,</hi>
+               <note place="margin">Pro 6.11.</note>
+               <note place="margin">Pro 12.11.</note> and cannot be reſiſted: whereas <hi>he that laboureth, and tilleth his Land ſhall bee filled with bread;</hi>
+               <note place="margin">Ecclus 20.27.</note> 
+               <hi>and ſhall en<g ref="char:EOLhyphen"/>creaſe his heape.</hi> Let this therefore exhorte thee to thrift, which hath both a watchfull eye, and diligent hand for the ſaving of what we have from periſhing. Diligence is requiſite for getting, and provi<g ref="char:EOLhyphen"/>dence for ſaving: Re<g ref="char:EOLhyphen"/>member
+<pb n="71" facs="tcp:150963:42"/> that it is the commendations of <hi>Sa<g ref="char:EOLhyphen"/>lomons</hi> vertuous Wo<g ref="char:EOLhyphen"/>man (among many o<g ref="char:EOLhyphen"/>ther) that <hi>ſhe overſeeth the waies of her houſhould.</hi>
+               <note place="margin">Pro 31.27.</note> Therefore ſhe hath a double portion, to wit, <hi>The fruite of her hands,</hi>
+               <note place="margin">Verſ. 31.</note> 
+               <hi>and prayſe in the gates,</hi> whereas ſuch as thinke it a diſparagment to their worth to be their owne ſervants; doe take a ready way to become other Mens ſlaves in
+<pb n="72" facs="tcp:150963:43"/> drudgery and beggery.</p>
+            <p>HEE <hi>that paſſeth by, and medleth with the strife that belongeth not unto him, is as one that taketh a Dog by the eares.</hi> Pro. 26. verſ. 27.<note place="margin">Pro. 20.3</note>
+            </p>
+            <p n="2">2 IT <hi>is a Mans ho<g ref="char:EOLhyphen"/>nour</hi> (ſayth <hi>Salomon) to ceaſe from ſtrife, but e<g ref="char:EOLhyphen"/>very foole will be medling,</hi> And as a wiſe Man will labour as much as in him lyeth to appeaſe a quarrell, or elſe de<g ref="char:EOLhyphen"/>part, before it grow
+<pb n="73" facs="tcp:150963:43"/> to too greate a height: ſo hee that is voyde of underſtanding ſides in contentions, till at length it fall heavie up<g ref="char:EOLhyphen"/>on his owne head. Therefore when thou ſeeſt the fier of conten<g ref="char:EOLhyphen"/>tion beginning to breake forth, eyther la<g ref="char:EOLhyphen"/>bour to ſuppreſſe it by gentle and friendly ad<g ref="char:EOLhyphen"/>monitions; or (when thou perceiveſt that they may not take place) withdrawe thy
+<pb n="74" facs="tcp:150963:44"/> ſelfe, leaſt medling too farre, and ſtirring the fier too much, the ſparkes fly into thy face, and at length the flame thereof catch hold of thee, and ſo thou periſh together in the ſame combuſtion. When <hi>Lentulus</hi> in a beaſtly and filthy manner did ſpit in <hi>Cato's</hi> face as hee was pleading at the barre; he only wiping his face, returned him this anſwere, Well <hi>Len<g ref="char:EOLhyphen"/>tulus</hi>
+               <pb n="75" facs="tcp:150963:44"/> well, I will hence<g ref="char:EOLhyphen"/>forth affirme it among all Men, that they are wonderfully deceived, who ſay thou haſt no Mouth; thus whileſt with the tender Plant thou yeeldeſt to the violent blaſt, thou ſhalt recover, and keepe thy ſtation, whilſt the buſie, and violent med<g ref="char:EOLhyphen"/>ler, needleſly thruſting his hand into every fire, ſhall hardly returne unſcorcht, if not ut<g ref="char:EOLhyphen"/>terly
+<pb n="76" facs="tcp:150963:45"/> conſumed.</p>
+            <p>HEE <hi>that commit<g ref="char:EOLhyphen"/>teth adultery with a wo<g ref="char:EOLhyphen"/>man, is destitute of un<g ref="char:EOLhyphen"/>derstanding; he that doth it destroyeth is owne ſoule.</hi> Pro. 6. verſ. 32.</p>
+            <p n="3">3 MARRIAGE <hi>is honorable among all men, and the bed undefiled,</hi>
+               <note place="margin">Heb. 13.4</note> 
+               <hi>but whoremongers, and a<g ref="char:EOLhyphen"/>dulterers God ſhall judge;</hi> and that with ſhame and poverty, (as <hi>Sa<g ref="char:EOLhyphen"/>lomon</hi> ſpeakes)<note place="margin">Pro. 6.26</note> 
+               <hi>becauſe of the whoriſh woman a
+<pb n="77" facs="tcp:150963:45"/> Man is brought to a mor<g ref="char:EOLhyphen"/>ſell of bread,</hi> ſhame, and diſhonor; or if he eſcape theſe, yet rottenneſſe ſendeth, like <hi>Ioab</hi> after <hi>Abner,</hi> and ſmiteth him to the death; or ſuppoſe hee live free from all theſe, ſo that none of them overtake him in this life, yet Gods judgments ſhall ſurely finde him in the World to come. So that he who wantons it in the Chamber, or
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="76" facs="tcp:150963:46"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="77" facs="tcp:150963:46"/>
+               <pb n="78" facs="tcp:150963:47"/> playes the beaſt in the feild heere, hee ſhall howle it in Hell, and fry in torments there; as he burned in luſt on Earth, ſo he ſhall broile in woe there, and as he coveted darknes rather then light, ſo darke<g ref="char:EOLhyphen"/>neſſe ſhall bee his co<g ref="char:EOLhyphen"/>vering, and that with<g ref="char:EOLhyphen"/>out end. Keepe thee therefore from the wicked,<note place="margin">Pro. 31.3.</note> and ſtrange woman, <hi>give not thy ſtrength unto her;</hi> ney<g ref="char:EOLhyphen"/>ther
+<pb n="79" facs="tcp:150963:47"/> deſire her beautie in thine hearte, neyther let her take thee with wylies, goe not into thy neighbours wife, nor climbe up to his bed;<note place="margin">Pro 5.19.</note> 
+               <hi>But let thine owne wife bee as the loving hinde, and pleaſant Roe, let her breasts ſatiſfie thee at all times, and delight in her love continually.</hi>
+            </p>
+         </div>
+         <div n="I" type="part">
+            <pb n="80" facs="tcp:150963:48"/>
+            <head>I.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 1. verſ. 10. &amp; 15.</hi>
+                  </bibl>
+                  <p>
+                     <hi>IF</hi> ſinners doe entiſe thee conſent thou not, walke not thou in the way with them; refraine thy foote from their path.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. AS it is with ſin, ſo is it alſo with ſinners, they cannot endure to goe alone,
+<pb n="81" facs="tcp:150963:48"/> they hould the old rule, the more the merrier: and being bad them<g ref="char:EOLhyphen"/>ſelves, they have a de<g ref="char:EOLhyphen"/>ſire to make the good bad alſo, that they may be bad like themſelves. If therefore thou beeſt called out of the good way wherein thou goeſt, by ſuch as may ſay unto thee, come doe as we doe, and thou ſhalt be rich as we are, conſent thou not at any hand; for howſoever
+<pb n="82" facs="tcp:150963:49"/> it may delight thee for a time, yet the end will be with woe and an<g ref="char:EOLhyphen"/>guiſh. What got <hi>Balaam</hi> by thoſe <hi>wages of ſinne</hi> which he loved? was he not caſt away by them?<note place="margin">Judge. 11.</note> ſo whileſt thou ſideſt with ungodly ones, in the purſuite of unlawfull gaine thou takeſt a ready courſe to ſplit thy ſelfe againſt a dangerous and inevi<g ref="char:EOLhyphen"/>table Rocke, whereon thou muſt needes
+<pb n="83" facs="tcp:150963:49"/> make Ship-wracke of thy precious ſoule:<note place="margin">Pſal. 37 38</note> 
+               <hi>For the tranſgreſſors ſhall periſh together, and the end of the ungodly is, they ſhall be rooted out at the last.</hi> Though it be faire ſunſhine with them for a ſeaſon, yet ere long a ſtorme will ariſe, which will daſh them with this heavy <hi>Me<g ref="char:EOLhyphen"/>mento,</hi>
+               <note place="margin">Pſal. 50.18</note> 
+               <hi>when thou ſaweſt a Theife thou wentſt with him.</hi>
+               <note place="margin">Pſal. 37 37</note> 
+               <hi>Keepe thou therefore innocency, and take heede
+<pb n="84" facs="tcp:150963:50"/> to the thing that is right, and that ſhall bring thee peace at the last,</hi> though it ſeeme no thriving trade at the firſt, but a ready roade to poverty, yet at length it will cauſe thee <hi>to inherite the land,</hi>
+               <note place="margin">Pſal. 37.29</note> 
+               <hi>and to dwell therein for ever.</hi>
+            </p>
+            <p>IS <hi>there not an ap<g ref="char:EOLhyphen"/>pointed time to man upon Earth, and are not his dayes as the dayes of an hierling?</hi> Iob. 7. verſ. 1.</p>
+            <p n="2">
+               <pb n="85" facs="tcp:150963:50"/>2. MAN is not unfitly com<g ref="char:EOLhyphen"/>pared to a Lampe which may have ſome violent blaſt, or puft to put it out, or if it eſcape theſe, yet there is but a propor<g ref="char:EOLhyphen"/>tioned meaſure of oyle which will be ſoone extinguiſhed; ſo, though neyther untim<g ref="char:EOLhyphen"/>ly death, nor hart-kil<g ref="char:EOLhyphen"/>ing care doe conſume, yet is there but an ap<g ref="char:EOLhyphen"/>poynted time for Man
+<pb n="86" facs="tcp:150963:51"/> to walke in, which he ſpeedily traces over and then as the hireling (with his penny in his hand, when the Sunne is ſet) returnes to his owne home, ſo Man when the Sunne of life ſet over him (after all his toyle) with his wages about him re<g ref="char:EOLhyphen"/>turnes to his houſe,<note place="margin">Job. 17.13</note> the Grave. Let this then teach thee chriſtian wiſdome, not to ſtand ideling all day long
+<pb n="87" facs="tcp:150963:51"/> in the Market place, but to labour and doe the thing that good is, that Men ſeeing thy good works may glo<g ref="char:EOLhyphen"/>rifiie thy Father which is in Heaven: thus ſhalt thou have prayſe of the Maſter of the Vineyard, in the great Audit, and receive thy wagis with comfort, even an immortall Crowne of glory.</p>
+            <p>IN <hi>Many words there cannot want iniquity, but
+<pb n="88" facs="tcp:150963:52"/> he that refraineth his lips is wiſe</hi> Pro. 10. verſ. 19.</p>
+            <p n="3">
+               <note place="margin">Ecclus 7.3.</note>3 THERE <hi>is a time to ſpeake, and a time to keepe ſilence,</hi> and happy is the Man that knowes the ſeaſon;<note place="margin">Pro. 17 18</note> for as <hi>a foole when he holdeth his peace is counted wiſe,</hi> ſo a wiſe Man ſealing up his lips, when his wiſedome ſhould bee manifeſted, may well beare the badge of a foole, and among many goe for ſuch. There<g ref="char:EOLhyphen"/>fore
+<pb n="89" facs="tcp:150963:52"/> count ſilence a vertue, and ſeaſonable talke no leſſe; let thy words be rather good then many: ſet a dili<g ref="char:EOLhyphen"/>gent watch before the doore of thy mouth, that nothing may come out thence but what thou haſt ſeri<g ref="char:EOLhyphen"/>ouſly pondered be<g ref="char:EOLhyphen"/>tweene thy ſelfe and thee, and then <hi>keepe not backe counſaile,</hi>
+               <note place="margin">Ecclus 4.</note> 
+               <hi>when it may doe good, neyther hide thy wiſedome when it may
+<pb n="90" facs="tcp:150963:53"/> be famous,</hi> this ſhall bring joy to thy ſelfe and others, for <hi>a word in due ſeaſon,</hi>
+               <note place="margin">Pro. 15.23.</note> 
+               <hi>how good is it?</hi> it is then <hi>like a goad, &amp; like a Nayle fastned by the master of the aſ<g ref="char:EOLhyphen"/>ſemblie,</hi>
+               <note place="margin">Ecclus 12.11.</note> pricking for<g ref="char:EOLhyphen"/>ward, and ſtirring up the good to a ready em<g ref="char:EOLhyphen"/>bracing of it, and tak<g ref="char:EOLhyphen"/>ing ſuch deepe roote in them, that it cannot at any time be removed, or forgotten.</p>
+         </div>
+         <div n="K" type="part">
+            <pb n="91" facs="tcp:150963:53"/>
+            <head>K.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 4.23.</hi>
+                  </bibl>
+                  <p>
+                     <hi>KEEPE</hi> thine heart with all diligence, for thereout commeth life.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. THE Rudder is but a ſmale thing, yet it guideth the whole Ship, the hearte is farre leſſe, yet it ru<g ref="char:EOLhyphen"/>leth the whole man:
+<pb n="92" facs="tcp:150963:54"/> Now as the Marriner though hee know all the dangerous ſhelves in the Sea, yet many times for want of pre<g ref="char:EOLhyphen"/>ſent heede, he ruſhes upon them and ſuffers Shipwracke; ſo though Man knowes many things to be evill, yet the heart being neg<g ref="char:EOLhyphen"/>lected hee falls upon them, and ſo makes ha<g ref="char:EOLhyphen"/>vocke of all. Therefore ſet watch and ward o<g ref="char:EOLhyphen"/>ver thine heart that it
+<pb n="93" facs="tcp:150963:54"/> depart not fro<g ref="char:cmbAbbrStroke">̄</g> the living Lord: watch to pray, and pray to watch, that thou enter not into temptatio<g ref="char:cmbAbbrStroke">̄</g> the divel thine adverſary is alwayes watching, and if hee catch thee napping, he will take thee as he finds thee, if the guarde of thine heart (grace, faith, &amp;c) be fallen aſleepe with<g ref="char:EOLhyphen"/>in thee, looke not to be awaked by thine ene<g ref="char:EOLhyphen"/>mies warning-peece, but make account (as
+<pb n="94" facs="tcp:150963:55"/> thoſe who are ſtung with the <hi>Aſpis</hi>) that thou art fallen into a deadly ſleepe, and ſhalt bee gone in (a trance) a trice the Lord knows whither.</p>
+            <p>KEEPE <hi>thy way farre from the strange woman, and come not neere the doore of her houſe.</hi> Pro. 5.8.</p>
+            <p n="2">2 THERE is a way which ſeemes good in a Mans eyes and voyde of danger,
+<pb n="95" facs="tcp:150963:55"/> which notwithſtand<g ref="char:EOLhyphen"/>ing if he travaile in, it bringeth him eyther <hi>with the Oxe to the ſlaughter,</hi>
+               <note place="margin">Pro. 7 22.</note> 
+               <hi>or with the foole to the ſtocks:</hi> though it bee deckt with orna<g ref="char:EOLhyphen"/>ments, carpets, &amp; laces, and ſeeme all ſmooth way, yet are there ma<g ref="char:EOLhyphen"/>ny dangerous Pit-fals wherein <hi>many fal downe <milestone type="tcpmilestone" unit="unspecified" n="26"/> wounded, and at length are ſlaine outright,</hi> the beſt end of it, is woe, ſorrow, and certaine
+<pb n="96" facs="tcp:150963:56"/> deſtruction for <hi>it goeth downe to the chambers of death:</hi> and this is the way of a Man with a Mayde. Though the ſtrange women ſpeake praceable, and <hi>her words be ſofter then butter, yet are they very ſwords</hi> prick<g ref="char:EOLhyphen"/>ing to the heart, and killing the Soule; though ſhe have a Vir<g ref="char:EOLhyphen"/>gins face, yet hath ſhee a ravenous tayle, and though ſhe tune moſt Sweete lullabies to the
+<pb n="97" facs="tcp:150963:56"/> eare, yet if wee ſtop them not and lend her a deafe one, <hi>when all both fleſh and blood,</hi>
+               <note place="margin">Pro. 5.11.</note> 
+               <hi>is con<g ref="char:EOLhyphen"/>ſumed, we ſhall mourne at the end.</hi> Come not therefore neere unto the ſtrange woman for it is ill jeſting with her, thou mayeſt as ſafely preſerve thine health among infectious peo<g ref="char:EOLhyphen"/>ple, or venemous Ser<g ref="char:EOLhyphen"/>pents, as thy goodneſſe among harlots: where<g ref="char:EOLhyphen"/>fore <hi>avoyd them and goe
+<pb n="98" facs="tcp:150963:57"/> not by them, turne from them and paſſe by.</hi>
+            </p>
+            <p>KEEPE <hi>not company with drunkards, nor with gluttons, for the drunkard and the glutton ſhall bee poore.</hi> Pro. 23. verſe. 20. &amp; 21.</p>
+            <p n="3">3. THERE are two Nations of ſinne, eter<g ref="char:EOLhyphen"/>nall enemies to the peo<g ref="char:EOLhyphen"/>ple of God, (like <hi>Moab</hi> and <hi>Ammon</hi> begotten of thoſe two baſe daugh<g ref="char:EOLhyphen"/>ters of health in their fathers forgetfulneſſe)
+<pb n="99" facs="tcp:150963:57"/> Drunkenneſſe, and Gluttony, of eyther of which may bee ſayed that of <hi>Ambroſe</hi> concer<g ref="char:EOLhyphen"/>ning dauncing, How many faults are in that one wickedneſſe. In<g ref="char:EOLhyphen"/>temperance in meate and drinke (like the witch <hi>Circe</hi>) tranſfor<g ref="char:EOLhyphen"/>meth Men into ſeverall ſorts of beaſtes, in which Metamorpho<g ref="char:EOLhyphen"/>ſis, they thinke them<g ref="char:EOLhyphen"/>ſelves borne only to powre downe ſtrong
+<pb n="100" facs="tcp:150963:58"/> drinke, and to devoure the good creatures of God: but as the Moth ſecretly fretteth the gar<g ref="char:EOLhyphen"/>ment, ſo poverty com<g ref="char:EOLhyphen"/>meth upon them una<g ref="char:EOLhyphen"/>wares, and they end in raggs. Become thou not therefore a pledge with ſuch, neither be thou of that ragged regiment; <hi>If thou chaunce to ſit at their costly table ſtreatch <milestone type="tcpmilestone" unit="unspecified" n="14"/> not thine hand where<g ref="char:EOLhyphen"/>ſoever thine eye looketh,</hi>
+               <note place="margin">Ecclus 31 12.</note> 
+               <hi>and thrust it not with it
+<pb n="101" facs="tcp:150963:58"/> into the diſh, Remember <milestone type="tcpmilestone" unit="unspecified" n="13"/> that an evill eye is a ſhrew,<note place="margin">Ecclus 19.1.</note> and that a man that is given to drunken<g ref="char:EOLhyphen"/>neſſe ſhall not be rich.</hi>
+            </p>
+         </div>
+         <div n="L" type="part">
+            <head>L.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 12. Verſ. 28.</hi>
+                  </bibl>
+                  <p>
+                     <hi>LIFE</hi> is in the way of righteouſneſſe, and in that path-way there is no death.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. VVHO ſo be<g ref="char:EOLhyphen"/>leeveth in the
+<pb n="102" facs="tcp:150963:59"/> Lord keepeth his com<g ref="char:EOLhyphen"/>mandements, and hee that truſteth in the Lord ſhal take no hurt, for the eyes of the Lord have reſpect unto them that love him to deli<g ref="char:EOLhyphen"/>ver their ſoules from death, to cover them under his winges, and to keepe them ſure, un<g ref="char:EOLhyphen"/>der his feathers: ſo that though <hi>a thouſand fall at their ſide,</hi>
+               <note place="margin">Pſal. 91.7.</note> 
+               <hi>and ten thou<g ref="char:EOLhyphen"/>ſand at their right hand, yet none evill ſhall come
+<pb n="103" facs="tcp:150963:59"/> nigh them.</hi> Whiliſt <hi>Iſrael</hi> walked in the way of the Lord, neyther Man, nor beaſt, Earth nor water, nothing could annoy them,<note place="margin">Exod 14.<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> The Sea ſhall part to make them an eaſie paſſage; the earth in forty yeeres travaile ſhall not make their foote to ſwell,<note place="margin">Deut. 8.4.</note> the noyſome, and peſtilent beaſt ſhall not come nigh to hurt them,<note place="margin">Ezek. 34.28 ibid.</note> nei<g ref="char:EOLhyphen"/>ther ſhall Men though <hi>Anakims</hi> prevaile a<g ref="char:EOLhyphen"/>gainſt
+<pb n="104" facs="tcp:150963:60"/> them: But when they once forſooke the Kings high-way, to wander in by pathes, who then were they not a prey unto? If then thou deſire to live long, and to ſee good dayes, eſchew evill and doe good;<note place="margin">Pſal 1.1.</note> 
+               <hi>Walke not in the counſaile of the wicked, neyther stand thou in the way of ſinners, for hee that followeth evill,</hi>
+               <note place="margin">Pro. 11.19.</note> 
+               <hi>ſee<g ref="char:EOLhyphen"/>keth his owne death,</hi> and becommeth his owne
+<pb n="105" facs="tcp:150963:60"/> murtherer, but <hi>righ<g ref="char:EOLhyphen"/>teouſneſſe delivereth from death,</hi>
+               <note place="margin">Pro. 10.2</note> and leadeth unto life Pro. 11.19.</p>
+            <p n="2">2 LET <hi>another Man prayſe thee, and not thine owne mouth; a stranger and not thine owne lips.</hi> Pro. 27. Verſ. 11.</p>
+            <p n="2">2 THERE are a ſort of People in the World, who doe not ſo much talke of their good deeds becauſe they
+<pb n="106" facs="tcp:150963:61"/> have done them, as doe them that they may talke of them, but what doe ſuch Men elſe, then with a great deale of coſt, and no leſſe paines purchaſe hatred to themſelves? For <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">Suidas.</note> (i: e:) Many will hate thee if thou love thy ſelfe. Let not then thy mouth be the Herald to pro<g ref="char:EOLhyphen"/>claime thine owne worth: rather let that be the office of ſome o<g ref="char:EOLhyphen"/>ther
+<pb n="107" facs="tcp:150963:61"/> Man, only let it be thy cheifeſt care to doe all things well that o<g ref="char:EOLhyphen"/>thers may profit there<g ref="char:EOLhyphen"/>by, in imitating that themſelves, which they commend in thee; It is, I grant, a good thing to be prayſed, but it is a better to bee prayſe-worthy: deſire not ſo much the acclamation of many, as of thoſe that are good; account it as great a miſery to be commended of bad
+<pb n="108" facs="tcp:150963:62"/> Men; as if thou wert well ſpoken-of for do<g ref="char:EOLhyphen"/>ing ill: let it be thy joy when the evill are diſ<g ref="char:EOLhyphen"/>pleaſed at thy well-do<g ref="char:EOLhyphen"/>ing &amp; judge it a com<g ref="char:EOLhyphen"/>mendations beyond co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pare, when thou art traduced, &amp; evill ſpoke<g ref="char:cmbAbbrStroke">̄</g>-of for thy goodneſſe.</p>
+            <p>LOOKE <hi>not thou up<g ref="char:EOLhyphen"/>on the Wine when it is red, and when it ſheweth his colour in the cup, <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or goeth downe pleaſantly.</hi> Pro. 23. verſ. 31.</p>
+            <p n="3">
+               <pb n="109" facs="tcp:150963:62"/>3 THE ſight as it is the moſt noble and ex<g ref="char:EOLhyphen"/>cellent ſenſe, ſo is it alſo the moſt delectable, and can hardly be removed from what it hath once entertained; what a ſin, and ſhame then is it, to puddle that Cryſtalline Spring by preſenting a Baſiliske to infect,<note place="margin">Pro. 23.32.</note> and poyſon it? Such is Wine and ſtrong drinke, which whileſt ſome have immoderatelie hunted after, and
+<pb n="110" facs="tcp:150963:63"/> with too eager a deſire gazed upon, they have found death in their potts.<note place="margin">Gen. 1.</note> God in the be<g ref="char:EOLhyphen"/>ginning made <hi>all things good,</hi> and ſhall Man the beſt of thoſe good crea<g ref="char:EOLhyphen"/>tures pervert the firſt inſtitution? ſhall that which God ordained <hi>to make glad the heart</hi> con<g ref="char:EOLhyphen"/>triſtate and ſade the ſame?<note place="margin">Pſal. 104.15.</note> God forbid, yet this is done by an ex<g ref="char:EOLhyphen"/>cesſive uſe, and ſuper<g ref="char:EOLhyphen"/>abundant luſting after
+<pb n="111" facs="tcp:150963:63"/> the ſame. Let therefore the counſaile of <hi>Paul</hi> to <hi>Timothy;</hi>
+               <note place="margin">1 Tim. 5.23.</note> bee thy doctrine: uſe Wine or ſtrong drinke, but let it be litle, ſuch as may conduce to health, and not put nature to too heauy a taske, in eaſing of the burden which hath unmeaſureablie bin layd upon it. Re<g ref="char:EOLhyphen"/>member that <hi>Wine is a mocker,</hi>
+               <note place="margin">Pr. 20.1.</note> 
+               <hi>and strong drinke is raging,</hi> deſire it not therefore over much
+<pb n="112" facs="tcp:150963:64"/> leſt it make thee un<g ref="char:EOLhyphen"/>wiſe.</p>
+         </div>
+         <div n="M" type="part">
+            <head>M.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 17. verſ. 1.</hi>
+                  </bibl>
+                  <p>
+                     <hi>MY</hi> breath is corrupt, my dayes are cut off, and the Grave is ready for me.</p>
+               </q>
+            </epigraph>
+            <p n="1">
+               <note place="margin">Pſal. 58.3.</note>1. BIRTH begets ſinne, <hi>(the wicked from the belly have erred,
+<pb n="113" facs="tcp:150963:64"/> and ſpeake lies)</hi> ſinne ſicknes, ſickneſſe death, and <hi>ſo all dy foraſmuch as all doe ſinne:</hi>
+               <note place="margin">Rom. 5.12.</note> had not Man ſinned, he ſhould have drawne out his life to a comfortable maturity, or if his life like ſome long-kind<g ref="char:EOLhyphen"/>led Lampe muſt have conſumed it ſhould have bin without all payne, for without ſin there could have bin no puniſhment. But ſinnes generation be<g ref="char:EOLhyphen"/>came
+<pb n="114" facs="tcp:150963:65"/> Mans corruption, and no ſooner was it borne but Man began to die.<note place="margin">August. de lib. arbit lib. <hi>3.</hi> c. <hi>8.</hi>
+               </note> Which is not the nature of Man thereto ordained, but the pu<g ref="char:EOLhyphen"/>niſhment of him con<g ref="char:EOLhyphen"/>demned, becauſe hee willingly died in ſpirit, hee muſt though a<g ref="char:EOLhyphen"/>gainſt his will die in body;<note place="margin">Job 17.13.</note> 
+               <hi>The grave must bee his Houſe, And Here he must rest,</hi>
+               <note place="margin">
+                  <hi>Mr.</hi> Auſtine in<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in fine.</note> 
+               <hi>and</hi>
+            </p>
+            <p>
+               <hi>Where elſe ſhould he reſt? Is not a mans owne houſe
+<pb n="115" facs="tcp:150963:65"/> (to ſleep in) best?</hi>
+            </p>
+            <p>Seing then this is the condition of all Men, let it be thy care to fur<g ref="char:EOLhyphen"/>niſh this houſe; that thou mayeſt bee rich and happy in it. Here lay up the precious Oyntment of a good name, here laye up the well kept bookes of a good conſcience, here lay up the workes of mercy, here lay up thy bills of exchange of convay, thy treaſure to
+<pb n="116" facs="tcp:150963:66"/> Heaven, where neither theife, nor Moth, nor ruſt ſhall annoy it, and having thus deckt, and garniſhed the ſame, lay thee downe in the ſweete bed of faith, and aſſurance of mercy, and looking for a glorious Reſurrection, ſay,
+<q>
+                  <l>Now farewell World,</l>
+                  <l>here in my houſe i'le rest,</l>
+                  <l>Sepulchrum enim domus</l>
+                  <l>mea est.</l>
+               </q>
+            </p>
+            <pb n="117" facs="tcp:150963:66"/>
+            <p>MANY <hi>deviſes are in a mans hearte, but the counſaile of the Lord ſhall ſtand.</hi> Proverbs 19. verſ. 21.</p>
+            <p n="2">2 THE <hi>way of man is not in himſelfe,</hi>
+               <note place="margin">
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er 10.23.</note> 
+               <hi>ney<g ref="char:EOLhyphen"/>ther is it in man to walke and direst his steps,</hi> he propoſeth, but God diſpoſeth; Man deter<g ref="char:EOLhyphen"/>mines, but GODS decree muſt ſtand. <hi>To morrow</hi> ſayth Man, <hi>I will goe to ſuch, or
+<pb n="118" facs="tcp:150963:67"/> ſuch a place, or doe this or that whereas he ought to ſay if the Lord will, and if I live I will doe this or that.</hi>
+               <note place="margin">James 4.13.15.</note> Vaine Man may thinke to get him a laſt<g ref="char:EOLhyphen"/>ing name, by erecting his cloudy peircing Tower, but God deter<g ref="char:EOLhyphen"/>mines to make it <hi>Babel</hi> a confuſion, ſo vaine are the devices of Man. Doe not thou therefore peremptorilie deter<g ref="char:EOLhyphen"/>mine of any thing, ey<g ref="char:EOLhyphen"/>ther in the Service of
+<pb n="119" facs="tcp:150963:67"/> God, or thine owne affaires: but deſire of the Lord <hi>to bow thine heart unto him,</hi>
+               <note place="margin">1 King. 8.58.</note> 
+               <hi>that thou mayst walke in his wayes,</hi> and begin all thy workes in his name, and feare; and ſo ſhalt thou bee ſure to end them in his favour.</p>
+            <p>MANY <hi>Men will boast every one of his owne goodnes but who can finde a faithfull Man?</hi> Pro. 20. verſ. 6.</p>
+            <p n="3">
+               <pb n="120" facs="tcp:150963:68"/>3 IT is bad for a Man to ſin, it is worſe to delight in it, but it is worſt of all to extenu<g ref="char:EOLhyphen"/>ate, and leſſen it. Whileſt Man ſeeks to ſhrowde his faults under vertues habit, and boaſts him<g ref="char:EOLhyphen"/>ſelfe to bee a very good Man, becauſe hee is not an incarnate Devill, what elſe doth he but paſſe on to the ſecond death, like the offender to the firſt, with merry company? whereby
+<pb n="121" facs="tcp:150963:68"/> the way may ſeeme ſomewhat ſhortened but the puniſhment nothing leſſened. It is a block which Satan caſts in the Chriſtian Mans way (and where<g ref="char:EOLhyphen"/>at many ſtumble) when hee makes a Man to compare himſelfe with others, and to thinke himſelfe a very holy Saint, if he be not worſe then the very worſt, and more notoriouſly wicked, then the moſt
+<pb n="122" facs="tcp:150963:69" rendition="simple:additions"/> profligate wretch. But alas! this is no ſure fence, it is no better then <hi>Adams</hi> thicket; which cannot ſhelter a Man from Gods inquiſition, who will finde him out in his deepeſt Hy<g ref="char:EOLhyphen"/>pocryſie.</p>
+            <p>
+               <note place="margin">Pro. 20 9.</note>Therefore <hi>ſay not thou I have made my heart cleane, I am cleane from my ſinne;</hi> but rather ac<g ref="char:EOLhyphen"/>knowledge thy ſelfe to be an unprofitable Ser<g ref="char:EOLhyphen"/>vant, a miſerable ſin<g ref="char:EOLhyphen"/>ner,
+<pb n="123" facs="tcp:150963:69"/> and in the pub<g ref="char:EOLhyphen"/>licans tone implore Gods favour,<note place="margin">Luke 18.2 13</note> 
+               <hi>O God be mercifull to me a ſinner.</hi>
+            </p>
+         </div>
+         <div n="N" type="part">
+            <head>N.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 1. verſ. 21.</hi>
+                  </bibl>
+                  <p>
+                     <hi>NAKED</hi> came I out of my mothers wombe, and naked ſhall I returne thi<g ref="char:EOLhyphen"/>ther the Lord hath given &amp; the Lord hath taken it.</p>
+               </q>
+            </epigraph>
+            <p n="1">1.<note place="margin">Job. 5.6.</note> MISERY <hi>commeth
+<pb n="124" facs="tcp:150963:70"/> not forth of the dust, ney<g ref="char:EOLhyphen"/>ther doth afflicton ſpring out of the Earth;</hi> but a ſu<g ref="char:EOLhyphen"/>preame hand rules over all,<note place="margin">1 Sam. 2 7</note> and <hi>it is the Lord only that maketh poore and ma<g ref="char:EOLhyphen"/>keth rich.</hi> Notwithſtand<g ref="char:EOLhyphen"/>ing Man, who is of a dogged nature, and cur<g ref="char:EOLhyphen"/>riſh diſpoſition (like the dog that bits the ſtone that is throwne at him but regards not him that threw it) is ever wraſtling and ſtriving with the Croſſe, and
+<pb n="125" facs="tcp:150963:70"/> affliction that is layd upon him, but he never lookes to the hand that ſent it;<note place="margin">Pſal. 14 1.</note> and with <hi>Davids</hi> foole he can hardly be brought to thinke on God,<note place="margin">Exod 8.19</note> till with <hi>Pharoahs</hi> enchanters he be com<g ref="char:EOLhyphen"/>pelled to confeſſe it to be his finger &amp; handy-worke. Man hath no<g ref="char:EOLhyphen"/>thing but what he hath received from God in truſt, who when hee ſees good, will call for what is his owne: and
+<pb n="126" facs="tcp:150963:71"/> then Man as hee came naked into the World, ſhrowded onely in bloud; ſo hee ſhall re<g ref="char:EOLhyphen"/>turne as naked wrapt up peradventure in a ſorry cloute. In his pil<g ref="char:EOLhyphen"/>grimage here he vaine<g ref="char:EOLhyphen"/>ly affected what hee muſt leave behind him, and like a fooliſh tra<g ref="char:EOLhyphen"/>veller, burthens him<g ref="char:EOLhyphen"/>ſelfe with more then is needefull.</p>
+            <p>Let this then teach thee, <hi>ſo to uſe this World,
+<pb n="127" facs="tcp:150963:71"/> as though thou uſedst it not.</hi>
+               <note place="margin">1 Tim. 9.8</note> 
+               <hi>Hast thou foode and rayment, be therewith con<g ref="char:EOLhyphen"/>tent,</hi> for it is not much that nature wants, it is leſſe that ſhe requires: Take up therefore the care of riches, only to ſerve thy turne in this life, and as thou findeſt thy ſelfe drawing nee<g ref="char:EOLhyphen"/>rer home, the more diſ<g ref="char:EOLhyphen"/>burthen thy ſelfe of them, knowing that he is but a fooliſh traveller that will furniſh him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="128" facs="tcp:150963:72"/> for a litle way, as if his journey were of many Miles: and if in thy journey thou meete with any croſſe or af<g ref="char:EOLhyphen"/>fliction (which the good are moſt ſubject unto, being heere from home in a ſtrange place) in body, goods, or good name, firſt looke backe to thy ſelfe, what thou haſt deſer<g ref="char:EOLhyphen"/>ved, and then looking up to heaven,<note place="margin">1 Sam. 3.18.</note> ſay with <hi>Eli, It is the Lord, let him
+<pb n="129" facs="tcp:150963:72"/> do what ſeemeth him good.</hi>
+            </p>
+            <p>No <hi>man that warreth, entangleth himſelfe with the affaires of this life, be<g ref="char:EOLhyphen"/>cauſe he would pleaſe him that hath choſen him to be a Souldier</hi> 2. <hi>Tim.</hi> 2. ver. 4.</p>
+            <p n="2">2 IT ill becommeth a Souldier that is upon ſervice for his King and Countrey, when hee ſhould be bending both wit and force for the annoying of the ene<g ref="char:EOLhyphen"/>my, then to bee contriving, or making
+<pb n="130" facs="tcp:150963:73"/> Merchandiſe with him: and as ill, or rather worſe, it becommeth a Chriſtian, when hee hath given up his name to become the Souldier of <hi>Chriſt Ieſus,</hi> then to be traffiqueing and trading with the Devill, dea<g ref="char:EOLhyphen"/>ling with him about worldly affaires.</p>
+            <p>Thou therefore that haſt by Baptiſme put on <hi>Christ Ieſus,</hi>
+               <note place="margin">Gal. 3.27.</note> procla<g ref="char:EOLhyphen"/>ming him to be thy King, and vowing thy
+<pb n="131" facs="tcp:150963:73"/> ſelfe to be his Souldier; ſtand to thy tackling, be ſtrong and quite thee like a Man, feare none but God, and yeelde to nothing but godlineſſe, which hath the pro<g ref="char:EOLhyphen"/>miſe of this life, and of that which is to come. Turne thine eyes from the things of this World, and fix them upon heavenly, conſider it is a Crowne thou runneſt for, a kingdome thou fighteſt for, fight
+<pb n="132" facs="tcp:150963:74"/> therefore manfully, and ſo at laſt having fought that good fight of faith, thou ſhalt inherit the Kingdome, and raine regally without oppo<g ref="char:EOLhyphen"/>ſition or annoyance for ever, for thou ſhalt pleaſe him whoſe Soul<g ref="char:EOLhyphen"/>dier thou art,<note place="margin">1 Sam. 2.30.</note> and who hath thus honoured thee.</p>
+            <p>NOVV <hi>will I ariſe ſay<g ref="char:EOLhyphen"/>eth the Lord, now will I be exalted now will</hi> I <hi>lift up my ſelfe.</hi> Eſay. 33. ver. 10.</p>
+            <p n="3">
+               <pb n="133" facs="tcp:150963:74"/>3 AS the nource to weane her child from the too earneſt deſire a<g ref="char:EOLhyphen"/>fter her breaſt, layes ſome bitter thing there<g ref="char:EOLhyphen"/>upon, which having prevailed, ſhee eyther wipes it off, or throwes it away: So deales God, with the bitter enemies which he ſtir<g ref="char:EOLhyphen"/>reth up againſt his peopl to weane them fro<g ref="char:cmbAbbrStroke">̄</g> ſin, &amp; the love of the World; hee at the laſt turnes their rage and fury upon
+<pb n="134" facs="tcp:150963:75"/> themſelves: though they bee for the preſent <hi>Thornes in his Churches ſide,</hi>
+               <note place="margin">Numb. 33.55.</note> 
+               <hi>and Prickes in their eyes,</hi> and vexe them in the land wherein they dwell; yet having ex<g ref="char:EOLhyphen"/>ecuted, and brought to effect his purpoſe, hee at the laſt <hi>ſweepes them away with the beſome of <milestone type="tcpmilestone" unit="unspecified" n="30"/> destruction,</hi>
+               <note place="margin">Eſay 14.23</note> 
+               <hi>and kills their roote with famine.</hi> For their actions procee<g ref="char:EOLhyphen"/>ding from an hatred a<g ref="char:EOLhyphen"/>gainſt Gods people, and
+<pb n="135" facs="tcp:150963:75"/> not from obedience, they are at the laſt juſt<g ref="char:EOLhyphen"/>ly puniſhed of God, for that they have in ſuch cruell manner made ha<g ref="char:EOLhyphen"/>vocke of his people.</p>
+            <p>Let this then arme thee with patience when the Hand of God is upon thee,<note place="margin">Job 13.15</note> 
+               <hi>To trust in him though hee ſlay thee,</hi> or when he doth exer<g ref="char:EOLhyphen"/>ciſe thy faith by wicked inſtruments, yet ſtill to relie upon him for deliverance, for he will
+<pb n="136" facs="tcp:150963:76"/> in his due time deliver thee: he will ariſe and be exalted, ſo that thou ſhalt ſee thy deſire upon thine enemies.</p>
+         </div>
+         <div n="O" type="part">
+            <head>O.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 21. verſ, 23.25.</hi>
+                  </bibl>
+                  <p>
+                     <hi>ONE</hi> dyeth in his full ſtrength, being in all eaſe, &amp; proſperity. And another dyeth in the bitterneſſe of his ſoule and never eateth with pleaſure.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. VVHAT is the
+<pb n="137" facs="tcp:150963:76"/> life of ma<g ref="char:cmbAbbrStroke">̄</g>, but a journey, or pilgrimage through the deſart of <hi>Sin,</hi> to<g ref="char:EOLhyphen"/>ward the land of Pro<g ref="char:EOLhyphen"/>miſe, the heavenly <hi>Ieru<g ref="char:EOLhyphen"/>ſalem?</hi>
+               <note place="margin">Eſay 33.24</note> 
+               <hi>where no inhabitant ſhall ſay, I am</hi> ſick. In which progreſſe ſome parents ſee their childre<g ref="char:cmbAbbrStroke">̄</g> conſumed for preſum<g ref="char:EOLhyphen"/>ption, like <hi>Nadab</hi> and <hi>Abihu.</hi>
+               <note place="margin">Leut. 10.2.</note> Some both pa<g ref="char:EOLhyphen"/>rents and children are devoured for rebellion, like <hi>Corah &amp; his company.</hi>
+               <note place="margin">Numb. 16.31.</note> 
+               <hi>but most children ſee their</hi>
+               <pb n="138" facs="tcp:150963:77"/> parents interred in the Wilderneſſe, for their manifold tranſgresſi<g ref="char:EOLhyphen"/>ons, and diſobedience. Man is borne with a condition to die: and not only old men muſt, but the youngeſt and luſtieſt may die. Nay our whole life is a con<g ref="char:EOLhyphen"/>tinuall death, Infancy dies in childhood, child<g ref="char:EOLhyphen"/>hood in youth, youth in ſtrong age, that in old age, and old age is our <hi>Nebo,</hi> from whence ha<g ref="char:EOLhyphen"/>ving
+<pb n="139" facs="tcp:150963:77"/> taken a veiw of the holy Land, we die according to the word of the Lord; for it was Satans language; he firſt ſpake the word, <hi>yee ſhall not die at all.</hi>
+               <note place="margin">Deut. 34.5.</note> Some depart out of this World like a gueſt out of his Inne, willingly, others leave it like a Man pluckt out of his houſe,<note place="margin">Gen. 3.4.</note> againſt their will, one dyes like a Lampe, or Candle waſted, and conſumed,
+<pb n="140" facs="tcp:150963:78"/> ſo dyes the old man: the other like fier quen<g ref="char:EOLhyphen"/>ched with water, vio<g ref="char:EOLhyphen"/>lently, ſo ends the yong man, ſo that will they, nill they, yet all re<g ref="char:EOLhyphen"/>turne to <hi>Golgotha.</hi> The workes of God are un<g ref="char:EOLhyphen"/>ſearchable, and his wayes paſt finding out, wherefore the godly, and the wicked are many times deceived in the end God aimes at. The wicked doe many times ſo flouriſh, and
+<pb n="141" facs="tcp:150963:78"/> end in ſuch pompe, and the godly are ſo afflict<g ref="char:EOLhyphen"/>ed, and die ſo deſpiſed<g ref="char:EOLhyphen"/>ly in the eye of the World, that the one <hi>thinkes the godly mans life to be but madnes,</hi>
+               <note place="margin">Wiſd. 5.4.</note> and the other, <hi>that he hath clen<g ref="char:EOLhyphen"/>ſed his heart in vaine:</hi> but the time will come when <hi>the wicked ſhall be ſcattered away like chaffe,</hi>
+               <note place="margin">Pſal. 1.5.</note> 
+               <hi>and the righteous ſhall stand in great boldnes before the face of ſuch as have tormented him.</hi>
+               <note place="margin">Wiſd. 5.1.</note>
+            </p>
+            <pb n="142" facs="tcp:150963:79"/>
+            <p>Therefore judge not thou thy ſelfe hated of God becauſe thou art poore, and endeſt thy dayes without pleaſure, neyther judge thy ſelfe beloved becauſe thou art rich, and departeſt in proſperity; but la<g ref="char:EOLhyphen"/>bour in both eſtates to die the Servant of the Lord, and ſo bee thou low,<note place="margin">Wiſ. 5.5.</note> or high; rich, or poore; <hi>thou ſhalt have thy Portion among the Saints.</hi>
+            </p>
+            <pb n="143" facs="tcp:150963:79"/>
+            <p>ONELY <hi>by Pride doth Man make contenti<g ref="char:EOLhyphen"/>on.</hi> Pro. 13, 10.</p>
+            <p n="2">2. PRIDE is a diſ<g ref="char:EOLhyphen"/>eaſe of the minde, whoſe efficient cauſe is the good gift of God abuſed, to wit, a wealthy eſtate: yea ſo eaſilie doth proſperity infect, that hardly can a Man be rich, and not tainted with this diſeaſe. While the families of <hi>Abraham</hi> &amp; <hi>Lot</hi> were not greate, there was peace and
+<pb n="144" facs="tcp:150963:80"/> quiet, but aſſoone as they were encreaſed, peace was excluded, and debate admitted in<g ref="char:EOLhyphen"/>to the roome: then be<g ref="char:EOLhyphen"/>gan the hearts to bee poſſeſt with that con<g ref="char:EOLhyphen"/>tentious rhetorique of <hi>Mine</hi> and <hi>Thine,</hi> which parted thoſe, whom neither adverſity, nor peril's in famine, or exile, could ſever, or part aſ<g ref="char:EOLhyphen"/>ſunder. It is commonly ſayd, that poverty parts good company, but it
+<pb n="145" facs="tcp:150963:80"/> is, more often ſeene, that thoſe have bin ſe<g ref="char:EOLhyphen"/>vered by proſperity, whom a meaner eſtate had lovingly knit in a firmer bond: for wealth inflameth the hart, with a deſier of priority, ſo that he now ſcornes to budge a foote, who a litle before would have bin content to have licked up the very duſt of thy feete. <hi>Hinc Rixae,</hi> I this is it. Wealth begets pride, which dies not
+<pb n="146" facs="tcp:150963:81"/> iſſueleſſe, but brings forth contention.</p>
+            <p>
+               <hi>Art thou rich, be not high minded,</hi>
+               <note place="margin">1 Tim. 6.17, 18.9.</note> 
+               <hi>trust not in uncertain riches, but in the living Lord, (which giveth us abundantly all things to enjoy)</hi> doe good, and bee rich in good works, bee ready to diſtribute, and com<g ref="char:EOLhyphen"/>municate, laying up in ſtore for your ſelfe a good foundatio<g ref="char:cmbAbbrStroke">̄</g> againſt the time to come, that you may obtaine e<g ref="char:EOLhyphen"/>ternall
+<pb n="147" facs="tcp:150963:81"/> life.</p>
+            <p>OPEN <hi>thy mouth for the dumbe, in the cauſe of all the children of de<g ref="char:EOLhyphen"/>ſtruction.</hi> Pro. 31. ver. 8.</p>
+            <p n="3">3 THERE is a dumbe oratour who by his ſilent thetorique implores our aide, The poore and helpleſſe wretch, whom God or none cares for: We ſay to our lazers, God helpe you, but God ſayeth to them that are godly and want helpe, I will helpe
+<pb n="148" facs="tcp:150963:82"/> where Man will not: If no man elſe will pleade their cauſe, <hi>God will out of the mouth of Babes and Sucklings ordaine helpe for his.</hi>
+            </p>
+            <p>Oh, therefore joyne in Commisſion with God,<note place="margin">Pro 31.9.</note> 
+               <hi>open thy mouth, judge righteouſly, and judge the afflicted, and the poore;</hi> defend their cauſe, who are not able to helpe themſelves.<note place="margin">Pro. 3.8.</note> 
+               <hi>So health ſhal be to thy navell, and mar<g ref="char:EOLhyphen"/>row to thy bones,</hi> &amp; when
+<pb n="149" facs="tcp:150963:82"/> time hath conſumed it ſelfe, and waſted theſe, <hi>when time ſhall bee no more time,</hi> then ſhalt thou inherit an eternall life.</p>
+         </div>
+         <div n="P" type="part">
+            <head>P.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 4. Verſ. 26.</hi>
+                  </bibl>
+                  <p>
+                     <hi>PONDER</hi> the path of thy feete, and let all thy wayes be ordered aright.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. THE Devill per<g ref="char:EOLhyphen"/>ceiving that man by humble obe<g ref="char:EOLhyphen"/>dience
+<pb n="150" facs="tcp:150963:83"/> may aſcend thi<g ref="char:EOLhyphen"/>ther, from whence hee by his pride is fallen, envieth him, and is be<g ref="char:EOLhyphen"/>come a Satan, that is, an adverſary unto him, and that a malicious one, a ſtrong one, and a poli<g ref="char:EOLhyphen"/>tique one: hee hath ſet infinite ſnares before our feete, and filled all our wayes with traps to catch our ſoules, he putteth into our hearts evill thoughts, into our Mouths lewd ſpeeches,
+<pb n="151" facs="tcp:150963:83"/> into our members ſin<g ref="char:EOLhyphen"/>full actions, when wee are awake hee ſtirreth us up to unlawfull deeds, in our ſleepe to filthy dreames, if wee bee merry hee maks us diſſolute, if wee be ſad hee laboureth to drive us to deſperation. Nay, he doth not only labour to lead us out of the way by manifeſt errour, but where hee ſees us walking by good works, there he ſeeketh
+<pb n="152" facs="tcp:150963:84"/> to inſnare us.</p>
+            <p>Seeing then thou art beſet with ſo many tem<g ref="char:EOLhyphen"/>ptations, thou hadſt need to have <hi>Argus</hi> eyes, and the faces of <hi>Ianus,</hi> that thou mayſt looke round about on every ſide for feare of danger. Wherefore as they that know they have ene<g ref="char:EOLhyphen"/>mies lying in waite for them, will not goe a<g ref="char:EOLhyphen"/>broade without their weapo<g ref="char:cmbAbbrStroke">̄</g>s. So thou know<g ref="char:EOLhyphen"/>ing that the devill conti<g ref="char:EOLhyphen"/>nually
+<pb n="153" facs="tcp:150963:84"/> lieth in waite for thee ſeeking to devour thee, ſhouldſt have a care to thy paths, that hee may never take thee at advantage, for as hee finds thee he will take thee.<note place="margin">Epheſ. 6.11</note> 
+               <hi>Stand therefore al<g ref="char:EOLhyphen"/>wayes compleately fur<g ref="char:EOLhyphen"/>niſhed with the whole ar<g ref="char:EOLhyphen"/>mour of God, that ſo thou mayst be able to withſtand the aſſaults of the Devill,</hi> and (as a peice moſt neceſſarie and bee-hovefull) take
+<pb n="154" facs="tcp:150963:85"/> unto thee prayer, which <milestone type="tcpmilestone" unit="unspecified" n="18"/> is a ſtrong Tower: <hi>the righteous runneth to it and is exalted.</hi>
+               <note place="margin">Pro. 18 18.</note>
+            </p>
+            <p>PRIDE <hi>goeth before deſtruction, and an high minde before the fall.</hi> Pro. 16.18.</p>
+            <p n="2">2 IT is Gods ordi<g ref="char:EOLhyphen"/>nary proceeding againſt proud perſons, to ſub<g ref="char:EOLhyphen"/>due, and bring under their pride by vile, and baſe meanes: and then to bring them to ſhame when their hearts are
+<pb n="155" facs="tcp:150963:85"/> puft up with a fond conceipt of their owne worth: when <hi>Herod</hi> was lifted up, and ſwelled in pride at the acclamations of thoſe flatterers who told him <hi>he ſpake more like a God then a man,</hi>
+               <note place="margin">Acts 12.22</note> 
+               <hi>then was he ſuddainly ſmitten by the Angel of the Lord, and <milestone type="tcpmilestone" unit="unspecified" n="23"/> miſerably conſumed, being eaten up of wormes.</hi>
+            </p>
+            <p>Therfore labour thou for humilitie, thinke baſely of thy ſelfe, and
+<pb n="156" facs="tcp:150963:86"/> be lowly in thine owne eyes, and ſo ſhalt thou be exalted in the ſight of God: The Sunne the higher hee is in the fir<g ref="char:EOLhyphen"/>mament, the ſhorter ſhadow hee maketh, and the neerer he com<g ref="char:EOLhyphen"/>meth to the Earth, the ſhadowes of all things are the longer: So ver<g ref="char:EOLhyphen"/>tue the higher, and the more eminent it is, the leſſe oſtentation it ma<g ref="char:EOLhyphen"/>keth, whereas, where vertue is wanting, there
+<pb n="157" facs="tcp:150963:86"/> is nothing but pride and arrogancy; even as the eares of Corne that have nothing in them but light ſtuffe, ſtand perching up above all the reſt, but thoſe that are laden with full graines, hang downe their heads. The deeper the Well is the ſwee<g ref="char:EOLhyphen"/>ter is the Water, ſo the more humble any man is in his owne conceipt, the more acceptable he is to God, and when
+<pb n="158" facs="tcp:150963:87"/> the other in their high conceipts imagining they ſtand faſt come tottering downe, this man ſtands faſt indeede and at the length ſhall be exalted with glory.</p>
+            <p>PREPARE <hi>thy worke without, and make ready the things in the field; and after build thine houſe.</hi> Pro. 24.27.</p>
+            <p n="3">3 IN Worldly affaires deliberation is very ne<g ref="char:EOLhyphen"/>ceſſary, and it is held a great point of policy for
+<pb n="159" facs="tcp:150963:87"/> a man to deliberate long before hee deter<g ref="char:EOLhyphen"/>mine any thing: for want of this wiſe fore<g ref="char:EOLhyphen"/>caſt, many men wor<g ref="char:EOLhyphen"/>thily undergoe the cen<g ref="char:EOLhyphen"/>ſure of inconſiderate, and receive nothing elſe but a mocke for what they take in hand. When <hi>Iſrael</hi> without the <hi>Com<g ref="char:EOLhyphen"/>mandement</hi> of the Lord,<note place="margin">Numb 14.40.41.42.</note> nay, contrary to his ap<g ref="char:EOLhyphen"/>poyntment would bee ſo forward, as to goe up, and fight againſt
+<pb n="160" facs="tcp:150963:88"/> the <hi>Amalekites,</hi> what was the iſſue? preſum<g ref="char:EOLhyphen"/>ing obſtinately, and raſhly to goe up to the top of the Mountaine, they became a prey to their enemies the <hi>Ama<g ref="char:EOLhyphen"/>lekits</hi> and <hi>Canaanites,</hi>
+               <note place="margin">Num. 14.45.</note> 
+               <hi>who ſmote them and conſumed them unto Hormah.</hi>
+            </p>
+            <p>In all thy affaires ther<g ref="char:EOLhyphen"/>fore whether ſpirituall, or temporall, be not too forward eyther with tongue or hand, but take hands with advice, in
+<pb n="161" facs="tcp:150963:88"/> worldly buſines, bee ſure of meanes how to compaſſe it, before thou take any enterpriſe in hand: and in Spi<g ref="char:EOLhyphen"/>rituall matters, when thou purpoſeſt to give up thy Name to <hi>Christ,</hi> firſt ſit downe, &amp; caſt thine accompts, what it will coſt thee to become a <hi>Christian:</hi> leaſt not being able to undergoe the troubles that ſhall accompany that profesſion, thou
+<pb n="162" facs="tcp:150963:89"/> be found unworthy to be his Diſciple.</p>
+         </div>
+         <div n="Q" type="part">
+            <head>Q.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 30. verſ. 18.</hi>
+                  </bibl>
+                  <p>
+                     <hi>QVICKEN</hi> us, and we will call upon thy Name.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. NITIMVR <hi>in vetitum</hi> is not more old then true, the forbidden Fruit ſtill
+<pb n="163" facs="tcp:150963:89"/> hangs in our eyes, and we long to be taſting: and whereas wee are dead,<note place="margin">Coloſ. 3.3.</note> and therefore ſhould minde worldly things no more then dead men doe: yet ne<g ref="char:EOLhyphen"/>vertheleſſe, wee are ſprightly, and lively in worldly affaires, but heavy, and lumpiſh, nay dead in ſpirituall mat<g ref="char:EOLhyphen"/>ters: So that unleſſe <hi>Christ</hi> ſay to us,<note place="margin">Marke 4 41.</note> as ſome<g ref="char:EOLhyphen"/>time to the <hi>Mayden, I ſay unto you ariſe,</hi> There
+<pb n="164" facs="tcp:150963:90"/> could not bee the leaſt endeavour in any of us, to further the worke of grace in himſelfe by calling upon God: for as the Apoſtle ſayeth, <hi>It is not in him that wil<g ref="char:EOLhyphen"/>leth,</hi>
+               <note place="margin">Rom. 9.16.</note> 
+               <hi>nor in him that run<g ref="char:EOLhyphen"/>neth, but in God that ſhew<g ref="char:EOLhyphen"/>eth mercy.</hi> He both pre<g ref="char:EOLhyphen"/>pares the good will of man,<note place="margin">Auguſt. Enchir: cap. <hi>3 1.</hi> Repent. Peter fol. <hi>117.</hi>
+               </note> that it may be fit to be holpen by grace, and alſo aydeth it being prepared. Hee preven<g ref="char:EOLhyphen"/>teth him that is unwil<g ref="char:EOLhyphen"/>ling
+<pb n="165" facs="tcp:150963:90"/> that hee may bee willing, and followeth him that is willing, that hee may not will in vaine. Blaſphemous then is it to hold, that the <hi>will of man</hi> ſhould worke with <hi>Gods Grace</hi> in any thing that is good. Indeede as they are workes and acti<g ref="char:EOLhyphen"/>ons, ſo they proceede from the will of man; but as they are good works they are only the workes of grace, as our
+<pb n="166" facs="tcp:150963:91"/> Savior <hi>Christ</hi> told his Diſciples,<note place="margin">John 15.5</note> 
+               <hi>Without me yee can doe nothing.</hi> Yet in the very act of conver<g ref="char:EOLhyphen"/>ſion, the will of man is not idle, nor without all motion, and ſenſe, as a dead image, but it fol<g ref="char:EOLhyphen"/>loweth the Spirit of God, that draweth it, not by any violent ne<g ref="char:EOLhyphen"/>cesſitie, but by ſweetning and ſoftning our hearts by his holy Spirit. For in one and the ſame moment, God moveth
+<pb n="167" facs="tcp:150963:91"/> and boweth the will,<note place="margin">Non vio<g ref="char:EOLhyphen"/>lenta neceſſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ate, ſed in<g ref="char:EOLhyphen"/>fandendo ſuavitatem <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er ſpiritum ſanctum bid.</note> and cauſeth us to bee willing indeed: but yet ſo, as all the efficacy of the worke is from the Spirit of God, who of unwilling maketh obedient, and of ſlow and dull maketh us runne.</p>
+            <p>Let this then teach thee himiliation: for if there be no goodneſſe nor any aptneſſe to that which is good in us, why ſhould we be lift
+<pb n="168" facs="tcp:150963:92"/> up with any conceipt of our ſelves? rather glorifie God with ac<g ref="char:EOLhyphen"/>knowledgment of thy poverty, and by earneſt Prayer crave the asſiſt<g ref="char:EOLhyphen"/>ance of Gods grace to quicken thee, and ef<g ref="char:EOLhyphen"/>fect the worke of thy converſion; that ſo thou mayſt performe thoſe duties, which God re<g ref="char:EOLhyphen"/>quireth of thee. Thus doth the Church of God in divers places: <hi>Convert thou me,</hi>
+               <note place="margin">Jer. 31.18</note> 
+               <hi>and I ſhal
+<pb n="169" facs="tcp:150963:92"/> be converted.</hi> And againe, <hi>Turne thou us unto thee O Lord,</hi>
+               <note place="margin">Lam. 5.21.</note> 
+               <hi>and wee ſhall be turned.</hi> Yea,<note place="margin">Da Domine quod jubes, &amp; jube quod vis Soliloq. cap. <hi>18.</hi>
+               </note> S<hi rend="sup">t</hi>. <hi>Augu<g ref="char:EOLhyphen"/>stine</hi> had that ſweete Prayer oft in his Mouth, <hi>Lord give grace to doe what thou com<g ref="char:EOLhyphen"/>maundeſt, and then com<g ref="char:EOLhyphen"/>maund what thou wilt.</hi> Otherwiſe there can be no good looked for in any of us. And there<g ref="char:EOLhyphen"/>fore <hi>Moyſes</hi> maketh this the cauſe, why the peo<g ref="char:EOLhyphen"/>ple were no more mo<g ref="char:EOLhyphen"/>ved
+<pb n="170" facs="tcp:150963:93"/> to repentance, by all the gracious pro<g ref="char:EOLhyphen"/>ceedings, and admini<g ref="char:EOLhyphen"/>ſtrations of God to<g ref="char:EOLhyphen"/>ward them in the wil<g ref="char:EOLhyphen"/>derneſſe; namely, <hi>That the Lord had not given them an heart to perceive,</hi>
+               <note place="margin">Deut. 29.4.</note> 
+               <hi>nor eyes to ſee, nor eares to heare unto this day.</hi>
+            </p>
+            <p>QVENCH <hi>not the ſpirit.</hi> 1 <hi>Theſ.</hi> 5.19.</p>
+            <p n="2">2 THE graces of the holy Spirit in this life, are like ſparkes of fier, which may ſoone
+<pb n="171" facs="tcp:150963:93"/> be quenced with a litle water; as oft as wee ſinne we caſt water up<g ref="char:EOLhyphen"/>on the Spirit of God, and as much as in us lies, wee put out the ſame.</p>
+            <p>Therefore let it bee thy ſpeciall care to a<g ref="char:EOLhyphen"/>voyde, and make con<g ref="char:EOLhyphen"/>ſcience of every thing wherein thou mayſt offend, and grieve the holy Spirit of God. He is a Spirit moſt pure, and will have an unde<g ref="char:EOLhyphen"/>filed
+<pb n="172" facs="tcp:150963:94"/> Temple to dwell in; keepe therefore thy Veſſell cleane, thy body pure, which is his Temple, doe nothing that may diſquiet, or moleſt him, leaſt by abuſing thy ſelfe by ſinne thou cauſe the Holy Ghoſt with griefe to depart from thee.</p>
+            <p>QVEENE Eſther <hi>al<g ref="char:EOLhyphen"/>ſo being in danger of death reſorted unto the Lord</hi> Eſther 14.1.</p>
+            <p n="3">
+               <pb n="173" facs="tcp:150963:94"/>3 THERE bee two things that fill the heart full of endleſſe griefe, outward cala<g ref="char:EOLhyphen"/>mities, and a wounded conſcience which (as <hi>Salomon</hi> ſpeakes) <hi>none can beare;</hi>
+               <note place="margin">Pro. 18 14</note> and the only comfort in diſtreſſe is to have recourſe to GOD by earneſt Prayer: and although hee ſeeme not to heare preſently,<note place="margin">Job 13.15.</note> yet <hi>to trust in him with</hi> Iob, <hi>even un<g ref="char:EOLhyphen"/>to the death.</hi>
+            </p>
+            <pb n="174" facs="tcp:150963:95"/>
+            <p>Rowle thy ſelfe there<g ref="char:EOLhyphen"/>fore upon the Lord, <hi>and caſt all thy care upon him, who careth for thee,</hi> and though GOD or wicked men afflict, and vex thee, yet let it not drive thee from this Rocke of comfort, to vaine and ſorry ſhifts. The Lord hath com<g ref="char:EOLhyphen"/>forts for his children that will quiet and ſup<g ref="char:EOLhyphen"/>port them in any feares and dangers, his conſo<g ref="char:EOLhyphen"/>lation will make a man
+<pb n="175" facs="tcp:150963:95"/> ſleepe without a Bed, live almoſt without a Soul; they will make a man bold in danger, quiet in trouble, and live in the jawes of death. Rejoyce there<g ref="char:EOLhyphen"/>fore in all thy troubles, but let it be in the Lord, and <hi>hee will give thee strength to withſtand the<g ref="char:cmbAbbrStroke">̄</g>, for the joy of the Lord is our Strength.</hi>
+            </p>
+         </div>
+         <div n="R" type="part">
+            <pb n="176" facs="tcp:150963:96"/>
+            <head>R.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 11. Verſ. 4.</hi>
+                  </bibl>
+                  <p>
+                     <hi>RICHES</hi> availe not in the day of wrath, but righteouſneſſe delive<g ref="char:EOLhyphen"/>reth from death.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. RICHES of themſelves are not ſimplie e<g ref="char:EOLhyphen"/>vill, but as they are cor<g ref="char:EOLhyphen"/>rupted
+<pb n="177" facs="tcp:150963:96"/> by abuſe; it is posſible (though hard) for a Man to bee rich, and yet to bee a good Man: neyther doth the Prophet adviſe us to have no riches,<note place="margin">Pſal. 62 10.</note> but that wee ſhould <hi>not ſet our hearts upon them.</hi> But alas; ſo eaſilie doth a proſperous e<g ref="char:EOLhyphen"/>ſtate make a corrup<g ref="char:EOLhyphen"/>ted minde, that po<g ref="char:EOLhyphen"/>vertie were much bet<g ref="char:EOLhyphen"/>ter for many. There is a fonde imagi<g ref="char:EOLhyphen"/>nation
+<pb n="178" facs="tcp:150963:97"/> poſſeſſeth the heart of moſt men, that wealth brings ſome happineſſe, and that if they have abundance, they are then in ſafety, and in an happy caſe; This is evident, by a common ſpeech, that ſuch, or ſuch a man cannot doe amiſſe, for he is wealthy and hath the World at will; as if they ſhould ſay, hee is free from danger, no hurt can come unto
+<pb n="179" facs="tcp:150963:97"/> him. But wealth is a very weake defendant againſt the LORDS aſſaults, it ſhall not ſtand them in any ſtead, <hi>neyther deliver them in the day of the wrath of the Lord.</hi>
+               <note place="margin">Ezeck 7.19.</note>
+            </p>
+            <p>
+               <hi>Truſt not therefore to thy riches,</hi>
+               <note place="margin">Ecclus 5.1</note> 
+               <hi>and ſay not I have enough for my life,</hi> for thou knoweſt not how ſoone they may be taken from thee, or thou thy ſelfe pluckt from them:<note place="margin">Ecclus 1 1<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 19.</note> the time
+<pb n="180" facs="tcp:150963:98"/> draweth neere, that thou muſt leave all ſuch things unto others, and then whoſe ſhall thoſe things be that thou haſt provided.</p>
+            <p>RIGHTEOVS <hi>lips are the delight of Kings, and the King loveth him that ſpeaketh right things.</hi> Pro. 16. ver. 13.</p>
+            <p n="2">
+               <note place="margin">Ecclus 10.17.</note>2 BLESSED <hi>is the Land when the King is the ſonne of Nobles,</hi> vertuouſlie trained up, and delighting in the
+<pb n="181" facs="tcp:150963:98"/> grave advice of his Sage counſellors; then doth he (like the Sunne in the Firmament) ſhine gloriouſlie, and as it, ſo hee comfor<g ref="char:EOLhyphen"/>teth, and rejoyceth the hearts of all that are under his rule. But when his eares are ſtopt to honeſt and whole<g ref="char:EOLhyphen"/>ſome Counſaile, and tyed onely to the tongues of flatterers, and Thraſonicall Sycopha<g ref="char:cmbAbbrStroke">̄</g>ts, a woe it is to the
+<pb n="182" facs="tcp:150963:99"/> 
+               <hi>land,</hi>
+               <note place="margin">Pro. 11.14.</note> 
+               <hi>for the people must needes fall.</hi>
+               <note place="margin">2 Chron. 12.1.</note> When fooliſh <hi>Rehoboam</hi> the Sonne of wiſe <hi>Salomon</hi> forſooke the Law of the Lord, all <hi>Iſrael</hi> went with him. Looke what manner of Man the ruler of the City is ſuch,<note place="margin">Ecclus 10.2.</note> are all they that dwell therein: his very example is a ſecret kinde of Law, and whatſoever hee doth himſelfe, he ſeems to command it to o<g ref="char:EOLhyphen"/>thers.</p>
+            <pb n="183" facs="tcp:150963:99"/>
+            <p>Which may bee a warning not onely to Princes themſelves but to all that be in authori<g ref="char:EOLhyphen"/>ty, to have a care that they become not pub<g ref="char:EOLhyphen"/>lique and notorious of<g ref="char:EOLhyphen"/>fenders.</p>
+            <p>Let me counſaile you in particular, as S. <hi>Bar<g ref="char:EOLhyphen"/>nard</hi> did <hi>Eugenius</hi> the Pope; It makes much to thy perfection, to a<g ref="char:EOLhyphen"/>voide both evill, and the ſhew of evill in the one thou ſhalt provide
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="182" facs="tcp:150963:100"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="183" facs="tcp:150963:100"/>
+               <pb n="184" facs="tcp:150963:101"/> for thy conſcience, in the other for thy cre<g ref="char:EOLhyphen"/>dite.</p>
+            <p>REMEMBER <hi>thy Creator in the dayes of thy youth, whiles the e<g ref="char:EOLhyphen"/>vill dayes come not, nor the yeares approach, where<g ref="char:EOLhyphen"/>in thou ſhalt ſay, I have no pleaſure in them.</hi> Ecclus 12. ver. 1.</p>
+            <p n="3">3 THERE are ma<g ref="char:EOLhyphen"/>ny enemies to grace, but none more to bee feared, then thoſe that fight within us a<g ref="char:EOLhyphen"/>gainſt
+<pb n="185" facs="tcp:150963:101"/> us: and though all Ages bee fruitfull in evill, yet none more then Youth, which, beſides all o<g ref="char:EOLhyphen"/>ther enemies, hath it ſelfe the greateſt ene<g ref="char:EOLhyphen"/>mie to it ſelfe, being deſtitute of its owne, and ſcorning the good adviſe of others. That which <hi>Salomon</hi> ſpake in jeſt and deriſi<g ref="char:EOLhyphen"/>on, the Young man takes in good ear<g ref="char:EOLhyphen"/>neſt.<note place="margin">Eccles 11.9.</note> 
+               <hi>Rejoyce O young
+<pb n="186" facs="tcp:150963:102"/> man in thy youth, and let thine heart cheare thee in the dayes of thy youth, and walke in the wayes of thine heart, and in the light of thine eyes, &amp;c.</hi> And therefore takes his ſwinge in pleaſures, pre<g ref="char:EOLhyphen"/>ſuming that old age is the onely fit time to turne to God. So that many times by con<g ref="char:EOLhyphen"/>tinuance and longer cuſtome in ſinne, hee makes his ſinnes of a double die, even <hi>Crim<g ref="char:EOLhyphen"/>ſon
+<pb n="187" facs="tcp:150963:102"/> ſinnes:</hi> yea, his ſins,<note place="margin">Eſay 1.18.</note> become like a Diſeaſe in the bones, whereof if one recover many doe rot away.</p>
+            <p>Oh therefore harden not thy heart, but to day heare Gods voyce calling thee to repen<g ref="char:EOLhyphen"/>tance, remember the <hi>evill dayes</hi> will come;<note place="margin">Ecclus 12.1.</note> wherein if thou pre<g ref="char:EOLhyphen"/>ſume to doe great mat<g ref="char:EOLhyphen"/>ters, (to frequent the Church, to heare the Word, &amp;c.) thou mayſt
+<pb n="188" facs="tcp:150963:103"/> peradventure bee de<g ref="char:EOLhyphen"/>ceived. It is reported of <hi>Alexander</hi> that great Conquerour, that when his Maſter <hi>Aristotle</hi> perſwaded him to for<g ref="char:EOLhyphen"/>beare the Warres till hee were growne to a full and perfect age; that hee anſwered, I feare that if I tarry till I come to that age, I ſhall looſe much of the heate and vigour of my youth: So doe thou anſwere all tem<g ref="char:EOLhyphen"/>ptations
+<pb n="189" facs="tcp:150963:103"/> whatſoever, which ſhall perſwade thee to put off thy re<g ref="char:EOLhyphen"/>pentance till thou beeſt old: Old Age hath e<g ref="char:EOLhyphen"/>nough to doe with its owne griefes, there are ſo many Aches in thy bones, ſo many Crampes in thy joynts, and ſo many paynes in all parts of thy body, that thou ſhalt have litle leaſure to think on any thing that is good.</p>
+            <pb n="190" facs="tcp:150963:104"/>
+            <p>Would not all Men condemne him for a foole, or a mad-man that ſhould lay the hea<g ref="char:EOLhyphen"/>vieſt burthen upon the weakeſt beaſt, who hath enough to doe to beare up it ſelfe? and ſhould let a ſtronger goe empty by? So re<g ref="char:EOLhyphen"/>member, that it is no leſſe folly, to exempt thy youth which is ſtrong and luſty, from the taske of repentance, and to impoſe the ſame
+<pb n="191" facs="tcp:150963:104"/> upon thy decrepit old age, already ſinking under it's owne bur<g ref="char:EOLhyphen"/>then.</p>
+            <p>And that it is the greateſt injury unto the Lord that can bee, for a man to conſecrate the prime day of his youth to the ſervice of the Devill, in the purſuite of ſinfull pleaſures, and to ſerve God with the rotten bones of his doating old age; here<g ref="char:EOLhyphen"/>in men deale with God
+<pb n="192" facs="tcp:150963:105"/> like the <hi>Iſraelites,</hi> who if they had ever a <hi>Lame,</hi> a <hi>Scabhed,</hi>
+               <note place="margin">Mat. 1.8.</note> or a <hi>ſick</hi> beaſt, that they would bring to the <hi>Altar:</hi> as if any thing had bin good enough for the LORD, but all the fat and well-liking they kept to them ſelves: and as to the <hi>Iſraelites,</hi> ſo wil God ſay to ſuch men as theſe, I have no pleaſure in you, <hi>neither will I ac<g ref="char:EOLhyphen"/>cept your offerings at your hands.</hi>
+               <note place="margin">Mal 1.10</note>
+            </p>
+            <pb n="192" facs="tcp:150963:105"/>
+            <p>O therfore let it be thy care to turne unto the Lord betimes, <hi>And to ſeeke him while he may be found:</hi>
+               <note place="margin">Eſay 55.6. Eccles 12.3.</note> 
+               <hi>before the keepers of the houſe doe tremble, and the strong men bow themſelves, and the grinders ceaſe, becauſe they are few, and they waxe darke that looke out by the windowes</hi> So ſhalt thou be an hap<g ref="char:EOLhyphen"/>py old man in thy
+<pb n="193" facs="tcp:150963:106"/> Youth; as too too many (by deferring the worke of their Repentance) are un<g ref="char:EOLhyphen"/>happily yong in their Age.</p>
+         </div>
+         <div n="S" type="part">
+            <pb n="194" facs="tcp:150963:106"/>
+            <head>S.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 2. verſ. 4.</hi>
+                  </bibl>
+                  <p>
+                     <hi>SKINNE</hi> for skinne, and all that e<g ref="char:EOLhyphen"/>ver<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d man hath will hee give for his life.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. VVEe are ea<g ref="char:EOLhyphen"/>ſilie glew<g ref="char:EOLhyphen"/>ed to the things of this life, and doe quicklie faſten our minds up<g ref="char:EOLhyphen"/>on
+<pb n="195" facs="tcp:150963:107"/> each ſmale content<g ref="char:EOLhyphen"/>ment we finde heere; and hence it is that wee are ſo hardly drawne from them, being is loath to part from them as from our deareſt lives, and onely in this caſe wee ſing loath to depart: yea with an eye in <hi>Sodome,</hi> and an hoofe in <hi>Egypt</hi> with much auckwardneſſe, and backwardneſſe wee forſake the one, to
+<pb n="196" facs="tcp:150963:107"/> ſave the other; how dearelie ſoever wee priſe theſe wordlie commodities, yet wee ſet life at an higher rate, and gladly fell all that wee have to pur<g ref="char:EOLhyphen"/>chaſe this Iewell.</p>
+            <p>Doe not thou then ſtaine the glorious Splendor of this pre<g ref="char:EOLhyphen"/>tious jem by vitious living; much more take heede thou prove not a Re<g ref="char:EOLhyphen"/>bell againſt GOD,
+<pb n="197" facs="tcp:150963:108"/> by a willfull deſtroy<g ref="char:EOLhyphen"/>ing of his worke<g ref="char:EOLhyphen"/>man-ſhip, doe not thou eyther for the a<g ref="char:EOLhyphen"/>voyding of evill, or procuring of good, lay violent hands up<g ref="char:EOLhyphen"/>on thy ſelfe, leaſt ſeek<g ref="char:EOLhyphen"/>ing to ſhunne a tem<g ref="char:EOLhyphen"/>porall calamitie, thou fall into an eternall miſery: like the fiſh that leapeth out of the broyling Pan, into the burning flame.</p>
+            <p>The Crocadiles of
+<pb n="198" facs="tcp:150963:108"/> 
+               <hi>Nilus</hi> purſue ſuch only as flie from them, but flie ſuch as ſtand to them, ſo doth the Devill, if hee bee reſi<g ref="char:EOLhyphen"/>ſted hee turneth his backe; and onely preaſſeth upon ſuch as give him ground: <hi>Give not place therefore to the Devill,</hi>
+               <note place="margin">Ephel. 4.27.</note> nor to ſuch horrible motions as he will bee ready to ſuggeſt,<note place="margin">
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn 5.39</note> but have re<g ref="char:EOLhyphen"/>courſe to the Scrip<g ref="char:EOLhyphen"/>tures, ſearch them for
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="197" facs="tcp:150963:109"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="198" facs="tcp:150963:109"/>
+               <pb n="199" facs="tcp:150963:110"/> the ſweete and gra<g ref="char:EOLhyphen"/>cious comforts which they afford, arme thy ſelfe with a con<g ref="char:EOLhyphen"/>ſtant faith in them,<note place="margin">Epheſ. 6.16.</note> and ſo <hi>ſhalt thou bee able to quench all the fiery Darts of Satan,</hi> doe thou ſtoutlie, and valiantly <hi>reſist him,</hi>
+               <note place="margin">Iam. 4.7.</note> 
+               <hi>and hee will flie from thee:</hi> but if thou yeeld un<g ref="char:EOLhyphen"/>to him, thou muſt needs fal into his feare<g ref="char:EOLhyphen"/>full Snares, and offer violence to that, which
+<pb n="200" facs="tcp:150963:110"/> ſhould be moſt chari<g ref="char:EOLhyphen"/>ly preſerved, and wil<g ref="char:EOLhyphen"/>fully periſh by thine owne hand.</p>
+            <p>SHALL <hi>wee re<g ref="char:EOLhyphen"/>ceive good at the hand of God, and not receive evill.</hi> Iob 11. ver. 10.</p>
+            <p n="2">2 GOD alone knowes beſt <hi>When to wound and when to heale,</hi>
+               <note place="margin">Deu 32.39</note> 
+               <hi>when to kill, and when to make alive,</hi> when to afflict with ſorrow, &amp; when to ſend comfort, thus doth hee many
+<pb n="201" facs="tcp:150963:111"/> times deale with his deare Children, put<g ref="char:EOLhyphen"/>ting into all their Cups of comfort, and con<g ref="char:EOLhyphen"/>tentment, the bitter drams of ſorrow and greife. And all this to teach us, not to expect any perpetui<g ref="char:EOLhyphen"/>ty of felicity heere: wee are all ſubject to viciſſitude, change, and alteration, and what wee are to day, wee cannot ſay with warrant, and make
+<pb n="202" facs="tcp:150963:111"/> it good, that wee ſhall bee the ſame to morrow.</p>
+            <p>Doe thou therefore from hence learne how to entertaine comforts when GOD ſends them, to uſe them like the World, as though thou uſeſt the<g ref="char:cmbAbbrStroke">̄</g> not, ſo to reſolve of them to day, as if to morrow thou wert to take thy leave of them. And as for Croſſes, and afflictions, when
+<pb n="203" facs="tcp:150963:112"/> thou, findeſt thy ſelfe eaſed from them, yet thinke that they have left thee (as the devill did Chriſt) only for a litle ſeaſon; and there<g ref="char:EOLhyphen"/>fore ſo take thy leave of them to day, as to morrow to expect their returne.</p>
+            <p>SVCH <hi>are the wayes of everyone that is gree<g ref="char:EOLhyphen"/>dy of gaine; hee would take away the life of the owners thereof.</hi> Pro. 1 ver. 19.</p>
+            <p n="3">
+               <pb n="204" facs="tcp:150963:112"/>3 COVETOVSNESSE is called (by the A<g ref="char:EOLhyphen"/>poſtle S. <hi>Paul) The roote of all evill,</hi>
+               <note place="margin">1 Tim. 6.10.</note> and not without cauſe, for a covetous man may eaſilie bee drawne to commit any ſinne, be it never ſo hainous: nothing is too hot, nor too heavy for him, whoſoever ſtand<g ref="char:EOLhyphen"/>eth in his way be<g ref="char:EOLhyphen"/>tweene him and his Profits he ſayth of him (as the husband-men
+<pb n="205" facs="tcp:150963:113"/> in the <hi>Goſpel</hi> concer<g ref="char:EOLhyphen"/>ning the heire) <hi>Come let us kill him,</hi>
+               <note place="margin">Mat. 21.38.</note> 
+               <hi>that the inheritance may be ours.</hi> If <hi>Naboths</hi> vine-yard lie commodiouſly for <hi>A<g ref="char:EOLhyphen"/>hab,</hi>
+               <note place="margin">1 King. 21.2.13.</note> he muſt have it, though it coſt the poore man his life.</p>
+            <p>Yea, Covetouſneſſe many times maketh men ſo unnaturall, that they doe not ſpare the lives of their owne Parents: or if they proceede not ſo
+<pb n="206" facs="tcp:150963:113"/> farre, yet they are as ſicke of the Father as may be, and wiſh him fairely layed in his Grave, that they may enjoy his living.</p>
+            <p>Hate thou this cor<g ref="char:EOLhyphen"/>rupt tree which bring<g ref="char:EOLhyphen"/>eth forth ſuch evill and accurſed Fruite;<note place="margin">Mat 7.17.</note>
+               <note place="margin">Luke 12.15.</note> 
+               <hi>Take heede and beware of co<g ref="char:EOLhyphen"/>vetouſneſſe,</hi> and becauſe it is an hereditary evill, bred in the bones, and will hardly out of the fleſh, therefore as
+<pb n="207" facs="tcp:150963:114"/> much as in you lyeth let your converſation be free from it,<note place="margin">Col. 3.5.</note> which will bee when thy heart ſhall be continu<g ref="char:EOLhyphen"/>ally fenced about with this Prayer of <hi>David, Incline mine heart unto thy Teſtimonies,</hi>
+               <note place="margin">Pſa. 119.36</note> 
+               <hi>and not unto covetouſneſſe.</hi>
+            </p>
+         </div>
+         <div n="T" type="part">
+            <pb n="208" facs="tcp:150963:114"/>
+            <head>T.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 4. verſ. 8.</hi>
+                  </bibl>
+                  <p>
+                     <hi>THEY</hi> that Plow iniquity, and Sow wicked<g ref="char:EOLhyphen"/>neſſe, Reape the ſame.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. EVILL words and deeds are like Arrowes ſhot on high, which light<g ref="char:EOLhyphen"/>ing on the Shooters head, doe wound his
+<pb n="209" facs="tcp:150963:115"/> 
+               <hi>Looke what meaſure men meete to others,</hi>
+               <note place="margin">Mat 7.2</note> 
+               <hi>the ſame ſhall bee meaſured to them againe,</hi> Hee that doth evill, muſt needs receive evill,<note place="margin">Gal. 6.7.</note> for <hi>what a man ſoweth that hee ſhall reape.</hi>
+               <note place="margin">Mat. 18.24 28, 30, &amp; 34</note> That mer<g ref="char:EOLhyphen"/>cileſſe Servant, who was forgiven the debt of 10000. <hi>Talents,</hi> and would not beare with his fellow in <hi>an hun<g ref="char:EOLhyphen"/>dred Pence,</hi> had the like cruelty ſhewed to him, being caſt
+<pb n="210" facs="tcp:150963:115"/> into Priſon till hee ſhould pay the whole Debt, which he was never able to doe. If a mans heart bee ſet upon miſcheife, miſ<g ref="char:EOLhyphen"/>cheife ſhall light up<g ref="char:EOLhyphen"/>on his owne pate; ſelfe doe, ſelfe have; <hi>Breach for breach,</hi>
+               <note place="margin">Leuit. 24 10.</note> 
+               <hi>eye for eye, tooth for tooth,</hi> Such a blemiſh as he hath made in any, ſuch ſhall bee repayd to him: If <hi>Adonibe<g ref="char:EOLhyphen"/>zek</hi> cut off the Thumes
+<pb n="211" facs="tcp:150963:116"/> of the Hands and Feete of other kings,<note place="margin">Iudg. 1.6.</note> his owne, though a King, ſhall be cut off.</p>
+            <p>
+               <note place="margin">Mat 7.12.</note>
+               <hi>Doe that therefore to others, which thou wouldst have done to thy ſelfe,</hi> Remember how <hi>Ieſa<g ref="char:EOLunhyphen"/>bel</hi> that fed on bloud,<note place="margin">2 Kin. 9.35</note> fed Dogs with her bloud; therefore doe no evill though thou mighteſt, and when thou art tempted to doe an evill worke, thinke that Satan is
+<pb n="212" facs="tcp:150963:116"/> where his buſines is, and therefore ſay thus to thy ſelfe, What ſhall I anſwer Chriſt at the Day of Audit? if contrary to my knowledge, and con<g ref="char:EOLhyphen"/>ſcience I ſhall doe this wickedneſſe.</p>
+            <p>TEACH <hi>a child in the trade of his way, and when hee is old hee ſhall not de<g ref="char:EOLhyphen"/>part from it.</hi> Pro. 22. ver. 6.</p>
+            <p n="2">
+               <pb n="213" facs="tcp:150963:117"/>2 NATVRE tru<g ref="char:EOLhyphen"/>ly is very powerfull, and can hardly bee changed, onely e<g ref="char:EOLhyphen"/>ducation can alter na<g ref="char:EOLhyphen"/>tures property, and mould a man a new. <hi>Themistocles</hi> ſeeing men wondering at a young man, whoſe lewde behaviour was chan<g ref="char:EOLhyphen"/>ged into good, ſayd, A ragged Coalt may make a good Horſe, if hee bee well orde<g ref="char:EOLhyphen"/>red, and skilfullie
+<pb n="214" facs="tcp:150963:117"/> broaken. The young mans minde is like Wax heated, apt to receive any forme; and what is therein imprinted, it retaines when it is cold. The Pot muſt bee faſhio<g ref="char:EOLhyphen"/>ned while the Clay is ſoft; the Veſſell ſeaſoned with good liquor, while it is new; the Tree ſtraight<g ref="char:EOLhyphen"/>ned while it is a Twigge; otherways if they bee ſuffered
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="213" facs="tcp:150963:118"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="214" facs="tcp:150963:118"/>
+               <pb n="215" facs="tcp:150963:119"/> to continue, they may ſoon <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bee broaken and ſpoiled, then bet<g ref="char:EOLhyphen"/>tered, and mended. The ſame muſt bee done in the inſtituti<g ref="char:EOLhyphen"/>on of youth, and what we hope to have him in age, we muſt faſhion him to in his tender bud.</p>
+            <p>Let it be thy chei<g ref="char:EOLhyphen"/>feſt care therefore in this buſineſſe, to ba<g ref="char:EOLhyphen"/>niſh from his eyes, and eares, all obſceane
+<pb n="216" facs="tcp:150963:119"/> and filthy talke, and ac<g ref="char:EOLhyphen"/>tions, for theſe litle pit<g ref="char:EOLhyphen"/>chers have eares, and doe derive there liberty of ſinning from what they heare, and ſee done by others. Let the cheifeſt of his time be taken up in the repe<g ref="char:EOLhyphen"/>tion of godly and wholeſome inſtructi<g ref="char:EOLhyphen"/>ons, and he ſhall con<g ref="char:EOLhyphen"/>tinue in the ſame, and <hi>ſo ſhalt thou deliver his ſoule from Hell (i: e.) from destruction.</hi>
+               <note place="margin">Pro. 23.24</note>
+            </p>
+            <pb n="217" facs="tcp:150963:120"/>
+            <p>THOVGH <hi>Hand joyne in Hand, the wicked ſhall not bee unpuniſhed</hi> Pro. 11. ver. 21.</p>
+            <p n="3">3 PHYSITIONS when they meete with a body hard to worke upon, they double their doſſes and uſe more violent meanes: and ſo deales God with ſinners when he finds them obſtinate; if his leſſer puniſhments can<g ref="char:EOLhyphen"/>not prevaile to bring them home, then hee
+<pb n="218" facs="tcp:150963:120"/> will lay his loynes up<g ref="char:EOLhyphen"/>on them, They muſt not thinke to runne away with their ſins without check, becauſe God in the love of a Father with a great deale of patience ex<g ref="char:EOLhyphen"/>pects their returne, No, though God be ſlow yet is he ſure, and how<g ref="char:EOLhyphen"/>ever he paces with lea<g ref="char:EOLhyphen"/>den feete, yet will hee fall upon them with iron hands. In vaine then doe the wicked
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="217" facs="tcp:150963:121"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="218" facs="tcp:150963:121"/>
+               <pb n="219" facs="tcp:150963:122"/> bandy againſt GOD, and fortifie themſelves againſt him: though he deferre his puniſh<g ref="char:EOLhyphen"/>ments for a time, and doe not preſently exe<g ref="char:EOLhyphen"/>cute his judgements upon them, yet at length hee will bend his bow,<note place="margin">Pſal. 7.</note> and deſtroy with his prepared Ar<g ref="char:EOLhyphen"/>rowes, he will draw his whetted Sword, and ſmite his enemies upon the cheeke bone, and will not give o<g ref="char:EOLhyphen"/>ver
+<pb n="220" facs="tcp:150963:122"/> till his Sword have eaten their fleſh, and his Arrowes are drunk in their bloud.</p>
+            <p>Haſt thou then ſin<g ref="char:EOLhyphen"/>ned? doe ſo no more, but confeſſing thy ſinne get thee to the Lord right humbly, abuſe not his patience and long ſufferance by making them no bet<g ref="char:EOLhyphen"/>ter then bawds to thy ſin, leaſt he come upon thee ſuddainly &amp; ſpoile thee of thine, arrmour
+<pb n="221" facs="tcp:150963:123"/> wherein thou truſt<g ref="char:EOLhyphen"/>edſt, and ſo give thee a ſhamefull overthrow.</p>
+         </div>
+         <div n="V" type="part">
+            <head>V.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ECCLVS 1. verſ. 2.</hi>
+                  </bibl>
+                  <p>
+                     <hi>VANITY</hi> of vanitys, ſayeth the Preacher; vani<g ref="char:EOLhyphen"/>ty of vanities, all is vaine.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. TERRENE things are like to Bridlime and the de<g ref="char:EOLhyphen"/>light
+<pb n="222" facs="tcp:150963:123"/> Man takes in them doth ſo clog the wings of his minde, that whereas he thinks to take God for his comfort, by ſoaring a loft unto him; he flags in his flight, falling ſhort of Heavenlie things, and lights upon honours, pleaſures, pro<g ref="char:EOLhyphen"/>fits, or the like, which he then begins to doate upon, and adore as his only healpe and ſuccour. But alas;
+<pb n="223" facs="tcp:150963:124"/> how doth he diſquiet himſelfe in vaine, and how weaklie doth he fortifie himſelfe a<g ref="char:EOLhyphen"/>gainſt Gods aſſaults, who in the tur<g ref="char:EOLhyphen"/>ning of an Hand, <hi>makes all his dayes ſor<g ref="char:EOLhyphen"/>rowes,</hi>
+               <note place="margin">Eccles 2.23.</note> 
+               <hi>and his travaile greife.</hi>
+            </p>
+            <p>
+               <note place="margin">1 Joh. 2.15</note>Therefore <hi>love not the World, nor the things of the World,</hi> for they will bring thee nothing but vexati<g ref="char:EOLhyphen"/>on of ſpirit: But
+<pb n="224" facs="tcp:150963:124"/> 
+               <hi>delight thy ſelfe in the Lord,</hi>
+               <note place="margin">Pſal. 37.4.</note> 
+               <hi>and hee ſhall give thee the deſires of thy heart.</hi>
+            </p>
+            <p>Others may make a goodly ſhew, and promiſe thee all the Kingdomes of the World, and the glo<g ref="char:EOLhyphen"/>ry thereof; but truſt them not:<note place="margin">Mundus deficit.</note> for though the World promiſe eaſe, comfort, and contentment, yet her Motto is <hi>Deficiam,</hi> I will faile you:
+<pb n="225" facs="tcp:150963:125"/> though the fleſh pro<g ref="char:EOLhyphen"/>miſe as faire as the World,<note place="margin">Caro infic<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</note> yet his Word is <hi>Inficiam,</hi>
+               <note place="margin">Daemod in<g ref="char:EOLhyphen"/>te<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ficit,</note> I will infect you; though the devill come not ſhort of ey<g ref="char:EOLhyphen"/>ther in his promiſes, yet his word is <hi>Inter<g ref="char:EOLhyphen"/>ficiam,</hi> I will deſtroy you, ſo that vaine is all comfort that can bee expected from them.</p>
+            <p>
+               <note place="margin">Deus refi<g ref="char:EOLhyphen"/>cit.</note>But what God pro<g ref="char:EOLhyphen"/>miſeth thou maiſt build upon, his Motto is <hi>Re<g ref="char:EOLhyphen"/>ficiam,</hi>
+               <note place="margin">Mat. 11.28</note> 
+               <hi>I will refreſh you.</hi>
+            </p>
+            <pb n="226" facs="tcp:150963:125"/>
+            <p>Say therefore unto him as <hi>Peter</hi> did to <hi>Christ, Maſter unto whom ſhall we goe. &amp;c.</hi> I have no other comfort but thee, I delight in none but thee, for all other delights ſhall faile, but <hi>With thee there is plea<g ref="char:EOLhyphen"/>ſure for evermore.</hi>
+               <note place="margin">Pſal. 16.11</note>
+            </p>
+            <p>VPON <hi>the Land of my people ſhall growe Thornes and Bryars: yea, upon all the houſes of joy in the City of rejoycing</hi> Eſay 30. ver. 13.</p>
+            <p n="2">
+               <pb n="227" facs="tcp:150963:126"/>
+               <note place="margin">Pſal 107.34.</note>2 GOD <hi>maketh a fruitfull Land barren for the wickedneſſe of them that dwell there<g ref="char:EOLhyphen"/>in;</hi> the Bryars and Brambles which it bringeth forth,<note place="margin">Gen. 3.18.</note> doe ſtill catch at the heels of us the wofull inha<g ref="char:EOLhyphen"/>bitants, and by their ſilent rhetorique ſeeme to bidde us to behold the fruits of our Re<g ref="char:EOLhyphen"/>bellion. Yea,<note place="margin">Eſay 32.14</note> the City of Gods delight ſhall bee made <hi>an heape
+<pb n="228" facs="tcp:150963:126"/> of deſolation, the delight of wild Aſſes:</hi> yea his holy Temple ſhall be deſtroyed, and defiled by prophane wret<g ref="char:EOLhyphen"/>ches, rather then wick<g ref="char:EOLhyphen"/>edneſſe ſhall goe un<g ref="char:EOLhyphen"/>puniſhed though in his owne people.</p>
+            <p>Let this ſtir up in thee an hearty hatred againſt ſinne, which bringeth forth ſuch fearefull effects, let it Spurre thee for<g ref="char:EOLhyphen"/>wards to holineſſe
+<pb n="229" facs="tcp:150963:127"/> of life; though wick<g ref="char:EOLhyphen"/>ed worldlings mocke thee for the ſame, yet thou ſhalt finde that thou art highly in Gods eſteeme: for the <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> over thee ſhall not be <hi>Iron,</hi>
+               <note place="margin">Levit. 26 19.</note> nor the <hi>Earth</hi> under thee as <hi>Braſſe,</hi> the Lord will not turne our Land into a ſtanding Poole, nor cauſe Thornes and Bryars to grow upon the ſame:<note place="margin">Pſal. 67.6.</note> but <hi>the Earth ſhall bring forth her en<g ref="char:EOLhyphen"/>creaſe,
+<pb n="230" facs="tcp:150963:127"/> and God even our God ſhall bleſſe us.</hi>
+            </p>
+            <p>AS VINEGAR <hi>is to the teeth, and as ſmoake to the eyes, ſo is the ſloath<g ref="char:EOLhyphen"/>full to them that ſend him.</hi> Pro. 10. ver. 26.<note place="margin">Pro. 15.19</note>
+            </p>
+            <p n="3">3. THE <hi>way of the ſloathfull man, is as an hedge of Thornes,</hi> When he ſhould goe about his imployments hee forecaſteth a thouſand feares: a Lion is with<g ref="char:EOLhyphen"/>out, he ſhall be ſlayne in the ſtreete,<note place="margin">Pro. 22.13.</note> a Beare
+<pb n="231" facs="tcp:150963:128"/> will meete him,<note place="margin">Amos 5.19.</note> or a Serpent out of the wall wil bite him onething or other is a continuall rub in his way, ſo that he is but a trouble, and a greife to him that im<g ref="char:EOLhyphen"/>ployeth him about any buſineſſe.</p>
+            <p>Have no fellowſhip therefore with the ſloathful man that ma<g ref="char:EOLhyphen"/>keth poore, but deliver thy ſelfe from him,<note place="margin">Pro. 10 4.</note> as a Doe from the hand of the Hunter, and as a
+<pb n="232" facs="tcp:150963:128"/> Bird,<note place="margin">Pro 6.5.</note> from the hand of the Fowler, ſo ſhalt thou finde comfort, &amp; abundance of precious Treaſures.</p>
+         </div>
+         <div n="W" type="part">
+            <head>W.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PRO. 2. Verſ. 10.11.</hi>
+                  </bibl>
+                  <p>
+                     <hi>WHEN</hi> wiſdome en<g ref="char:EOLhyphen"/>tereth into thine heart, &amp; knowledge delighteth thy ſoule, then ſhall counſaile preſerve thee, and, under<g ref="char:EOLhyphen"/>stanging ſhall keepe thee.</p>
+               </q>
+            </epigraph>
+            <p n="1">1.<note place="margin">2 Chron. 1.7.</note> SALOMON being
+<pb n="233" facs="tcp:150963:129"/> bidden of God to aske what hee would, de<g ref="char:EOLhyphen"/>ſired not ſilver nor any ſuch earthly traſh, but <hi>give mee wiſdome</hi> (ſayth he) <hi>to goe in,</hi>
+               <note place="margin">2 Chron. 1 10.</note> 
+               <hi>and out, to governe this people.</hi> If he who was a governour of mens bodies only, made this choice: then how much more wary ought evry one to be in his election, when body, and ſoule are un<g ref="char:EOLhyphen"/>der his charge?</p>
+            <pb n="234" facs="tcp:150963:129"/>
+            <p>The Word of God is called a <hi>Lanthorne,</hi>
+               <note place="margin">Pſa 119.105.</note> and a <hi>Light:</hi> now as a man who hath a Lan<g ref="char:EOLhyphen"/>thorne and a Candle carried before him keepes himſelfe from falling in the darkeſt night; ſo hee that ſuf<g ref="char:EOLhyphen"/>fers himſelfe to be gui<g ref="char:EOLhyphen"/>ded by Gods Word, placing it alway before him, and letting it ſhine to his heart, he ſhall by the light there<g ref="char:EOLhyphen"/>of keepe himſelfe from
+<pb n="235" facs="tcp:150963:130"/> falling,<note place="margin">Pſal. 119.11.</note> ſo that he ſhall not ſinne againſt the Lord, or if he doe fall through infirmity, (as who ſinneth not) yet hee ſhall not lie along impenitently, for <hi>he hath the ſeede of Gods Word abiding in him,</hi>
+               <note place="margin">1 John 3 9</note> which will reduce, and bring him into the way againe.</p>
+            <p>
+               <note place="margin">Pro. 6.21</note>
+               <hi>Binde therefore the <milestone type="tcpmilestone" unit="unspecified" n="23"/> precepts of Gods Word upon thy heart, and tie them alwayes about
+<pb n="236" facs="tcp:150963:130"/> thy necke,</hi> have them alwayes in remem<g ref="char:EOLhyphen"/>brance and before thine eyes, and then like a Lanthorne, and a light they ſhall pre<g ref="char:EOLhyphen"/>ſerve thee from falling into ſinfull wayes,<note place="margin">Pſal. 141.4</note> with men that worke iniquity.</p>
+            <p>WINE <hi>is a mock<g ref="char:EOLhyphen"/>er, and ſtrong drinke is raging; and whoſoe<g ref="char:EOLhyphen"/>ver is deceived there<g ref="char:EOLhyphen"/>by is not wiſe.</hi> Pro. 20. verſ. 1.</p>
+            <p n="2">
+               <pb n="237" facs="tcp:150963:131"/>2 THE Vine bring<g ref="char:EOLhyphen"/>eth forth three ſorts of Grapes, the firſt of pleſantneſſe, the ſecond of drunkenneſſe, &amp; the third of ſhame, when men are ſo taken with the colour, or pleſant<g ref="char:EOLhyphen"/>neſſe of the Wine in going downe, that they tarry by it till night, <hi>till the Wine enflame them:</hi>
+               <note place="margin">Eſay 9.21.</note> Then (beſides other woes, and ſor<g ref="char:EOLhyphen"/>rowes which attend thereupon)<note place="margin">Pro. 23.29.</note> ſhame fol<g ref="char:EOLhyphen"/>lowes,
+<pb n="238" facs="tcp:150963:131"/> and leaves them not, till ſhee hath made them ridiculous: ſo when it hath ſtripped them as bare as <hi>Noah,</hi> then it expoſeth them like <hi>Noah</hi> to <hi>Cham,</hi> and all that ſee them doe mocke them.</p>
+            <p>It is recorded of a Bird which hath the face of a Man, but is ſo feirce of nature, that ſometimes for hunger ſhee will ſet upon a man, and ſlay him: after<g ref="char:EOLhyphen"/>wards
+<pb n="239" facs="tcp:150963:132"/> comming for thirſt unto the water, and ſeeing a face in the water like the face of him whom ſhee had devoured, for greife that ſhe had killed one like her ſelfe, takes ſuch ſorrow, that ſhe never eateth, nor drink<g ref="char:EOLhyphen"/>eth after, but frets, beates, and pines, her ſelfe to death. What then ſhall they doe who have not ſlaine one like themſelves,
+<pb n="240" facs="tcp:150963:132"/> but themſelves their very ſelves with a Cup of Wine?</p>
+            <p>As Chriſt therefore ſayd <hi>remember Lots wife;</hi>
+               <note place="margin">Luke 17.32.</note> ſo ſay I, Remember <hi>Lot:</hi> one nights drun<g ref="char:EOLhyphen"/>kenneſſe did him more hurt then all his ene<g ref="char:EOLhyphen"/>mies in <hi>Sodome.</hi>
+               <note place="margin">Gen. 19.33.</note> Re<g ref="char:EOLhyphen"/>member <hi>Noah,</hi> one howers drunkenneſſe expoſed him to ſhame, and the contempt of his owne child, by diſ<g ref="char:EOLhyphen"/>covering the naked<g ref="char:EOLhyphen"/>neſſe
+<pb n="241" facs="tcp:150963:133"/> of thoſe things, which he had concea<g ref="char:EOLhyphen"/>led,<note place="margin">Gen. 19 21.22.</note> and kept hid, ſix hundred yeeres toge<g ref="char:EOLhyphen"/>ther.<note place="margin">Epheſ. 5.18.</note> 
+               <hi>Be not then drun<g ref="char:EOLhyphen"/>ken with wine, or strong drinke, wherein is exceſſe,</hi> and all kinde of riot, joyned with all kinde of filthineſſe, and ſhamefulneſſe of li<g ref="char:EOLhyphen"/>ving.<note place="margin">1 Theſ. 5.8</note> But <hi>thou which art of the day, be ſober,</hi> and truſt perfectly on that grace that is brought unto you,<note place="margin">1 Pet. 1.13</note> in the Reve<g ref="char:EOLhyphen"/>lation
+<pb n="242" facs="tcp:150963:133"/> of Ieſus Chriſt, <milestone type="tcpmilestone" unit="unspecified" n="14"/> as an obedient child, not faſhioning, your ſelfe unto the former <milestone type="tcpmilestone" unit="unspecified" n="15"/> luſts of your ignor<g ref="char:EOLhyphen"/>ance: but <hi>as hee which hath called you, is holy ſo be thou holy in all man<g ref="char:EOLhyphen"/>ner of converſation.</hi> 1. Peter. 1.13, 14, 15.</p>
+            <p>WHO <hi>ever periſh<g ref="char:EOLhyphen"/>ed being an innocent? or where were the upright destroyed?</hi> Iob 4. ver. 7.</p>
+            <p n="3">3 MANS extremity is Gods oppertunity,
+<pb n="243" facs="tcp:150963:134"/> and many times hee ſuffers his children to ſinke ſo low, that all meanes of helpe ſeems to faile in ſo much that they many times become a by-word to wicked and prophane worldlings; <hi>Loe theſe are the men that truſted in God; theſe are they that tooke him for their comfort:</hi>
+               <note place="margin">Pſal. 37.24</note> Yet then in mercy hee putteth un<g ref="char:EOLhyphen"/>der his hand, not ſuf<g ref="char:EOLhyphen"/>fering them to periſh,
+<pb n="244" facs="tcp:150963:134"/> or to bee caſt off.</p>
+            <p>Doe thou then who haſt an heart ſpiritually afflicted ſtay thy ſelfe heere. Feare not any af<g ref="char:EOLhyphen"/>fliction, whether im<g ref="char:EOLhyphen"/>mediately from God, or from his inſtru<g ref="char:EOLhyphen"/>ments happening unto thee, for God hath comforts for thee in all, and will ſend com<g ref="char:EOLhyphen"/>fort above all tribu<g ref="char:EOLhyphen"/>lation. Though hee ſuffer thee to bee evill entreated of Tyrants
+<pb n="245" facs="tcp:150963:135"/> and cruell oppreſſors, yet <hi>deſpiſe not the chastening of the Lord, neyther faint when thou art rebuked of him,</hi>
+               <note place="margin">Heb. 12.5 10</note> knowing that he doth it for thy profit, that thou mayſt bee par<g ref="char:EOLhyphen"/>taker of his holi<g ref="char:EOLhyphen"/>neſſe.</p>
+         </div>
+         <div n="Y" type="part">
+            <pb n="246" facs="tcp:150963:135"/>
+            <head>Y.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS 27. verſ. 17.</hi>
+                  </bibl>
+                  <p>
+                     <hi>YRON</hi> ſharpeneth yron, ſo doth man ſhar<g ref="char:EOLhyphen"/>pen the face of his friend.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. THERE is no ſpeedier con<g ref="char:EOLhyphen"/>junction of Fier and Gunpowder, Fire and Towe, Tinder, or of
+<pb n="247" facs="tcp:150963:136"/> any other ſuch com<g ref="char:EOLhyphen"/>buſtable matter, then there is of words: for no ſooner is an haſty word ſent from the mouth of an angry man, but it catches, and kindles, burning on till it have enflamed him who is of the like hu<g ref="char:EOLhyphen"/>mor: then as if it reached ſome concave it is repercuſſed, and Echoed into the throate of the ſpeaker. Hence many times it comes to
+<pb n="248" facs="tcp:150963:136"/> paſſe, that even be<g ref="char:EOLhyphen"/>tweene moſt loving friends, for trifles, and matters of no moment, moſt bitter diſcords, and unnaturall bloud<g ref="char:EOLhyphen"/>ſheads have ariſen, for (ſayth <hi>Salomon) grieve<g ref="char:EOLhyphen"/>ous words stirr up anger,</hi>
+               <note place="margin">Pro. 1 1.</note> which ends not in the teeth or tongue, nor dies till it come to blading, or handing at the beſt.</p>
+            <p>Therefore let it be thy co<g ref="char:cmbAbbrStroke">̄</g>mendation that thou canſt put up an angry
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="247" facs="tcp:150963:137"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="248" facs="tcp:150963:137"/>
+               <pb n="249" facs="tcp:150963:138"/> words, and paſſe by an injury offered, or done unto thee: how<g ref="char:EOLhyphen"/>ſoever the World be<g ref="char:EOLhyphen"/>foole thee for it, yet art thou Gods wiſe<g ref="char:EOLhyphen"/>man,<note place="margin">Pro. 14 29</note> for <hi>he that is ſlow to wrath is of great wiſ<g ref="char:EOLhyphen"/>dome,</hi> whereas he that is an angry man never lacks woe, and <hi>a man of much anger ſhall ſuf<g ref="char:EOLhyphen"/>fer puniſhment.</hi>
+               <note place="margin">Pro 19.19.</note>
+            </p>
+            <p>YEE <hi>are all the children of light, and the children of the day.</hi>
+               <pb n="252" facs="tcp:150963:138"/> 1 Theſ. 5. verſ. 5.</p>
+            <p n="2">2 TRVTH how<g ref="char:EOLhyphen"/>ever it may ſometimes be blamed, yet it can never be ſhamed, but with a conſtant, and ſettled countenance it dares behold the Sun: whereas ſinne, though it be a bould audaci<g ref="char:EOLhyphen"/>ous brood, yet it ſeeks to ſhrowde it ſelfe in obſcure places, not daring to behold the light.<note place="margin">Pro. 7 9.</note> 
+               <hi>The whoremaster ſeekes out whore-howſes
+<pb n="251" facs="tcp:150963:139"/> in the twilight, in the e<g ref="char:EOLhyphen"/>vening, when the night begins to bee blacke and darke.</hi>
+               <note place="margin">Job 24 15</note> 
+               <hi>The eye of the Adulterer waiteth for the twilight, and ſayeth no eye ſhall ſee mee, and diſ<g ref="char:EOLhyphen"/>guiſeth his face. And they that be drunke, are drunke in the night:</hi> in which ſecurity whilſt they are deepe buried, ſinging ſweete lulla<g ref="char:EOLhyphen"/>bies to their ſoules, yea are enſnared in an e<g ref="char:EOLhyphen"/>vill hower, and <hi>ſud<g ref="char:EOLhyphen"/>daine
+<pb n="252" facs="tcp:150963:139"/> destruction comes upon them,</hi>
+               <note place="margin">1 Theſſ. 5.3.</note> 
+               <hi>that they can<g ref="char:EOLhyphen"/>not eſcape.</hi>
+            </p>
+            <p>Whereas the child of God ſtanding in awe of, and yet joyfully expecting that day, prevents the bitter<g ref="char:EOLhyphen"/>neſſe thereof by wal<g ref="char:EOLhyphen"/>king ſoberlie as in the Day-time, not fearing who ſeeth, or ſcanneth his acti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Thou therefore who art of the day, be ſober &amp;
+<pb n="255" facs="tcp:150963:140"/> watch, doe ſuch things as doe belong, and ap<g ref="char:EOLhyphen"/>pertaine to the light, not walking in the wayes, nor doing the workes of vanity that when thy Maſter com<g ref="char:EOLhyphen"/>meth, and findeth thee doing ſuch things as are pleaſing in his eye<g ref="char:EOLhyphen"/>ſight, thou mayſt par<g ref="char:EOLhyphen"/>take of that comfor<g ref="char:EOLhyphen"/>table invitation, <hi>It is well done good ſervant,</hi>
+               <note place="margin">Mat. 25.13.</note> 
+               <hi>and faithfull, enter in<g ref="char:EOLhyphen"/>to thy masters joy.</hi>
+            </p>
+            <pb n="256" facs="tcp:150963:140"/>
+            <p>YES, <hi>yee are our glory and joy.</hi> 1. Theſ. 2.20.</p>
+            <p n="3">3 AS in all other profeſſions, ſo like<g ref="char:EOLhyphen"/>wiſe in the Miniſtry; perfection and a good effect is the thing prin<g ref="char:EOLhyphen"/>cipally intended, and the ſalvation of ſoules cheifely aimed at a good ſucceſſe is that which every one ex<g ref="char:EOLhyphen"/>ſpects upon his la<g ref="char:EOLhyphen"/>bours,<note place="margin">1 Theſ. 2.19.</note> and the Mini<g ref="char:EOLhyphen"/>ſters <hi>Crowne of rejoycing</hi>
+               <pb n="255" facs="tcp:150963:141"/> is, when the word of God, which is by him ſowen in the hearts of his people, <hi>takes roote downewards,</hi>
+               <note place="margin">Eſay 55.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> 
+               <hi>and beares fruite upwards,</hi> proſpering in the things wherunto it is ſent.</p>
+            <p>Let it therefore bee your care (as it is his) when you come to the hearing of the holy word of GOD, to come with a deſier to profit by it, and
+<pb n="256" facs="tcp:150963:141"/> to grow in grace, through the power<g ref="char:EOLhyphen"/>full operation of the ſame: and to this end pray unto God, to o<g ref="char:EOLhyphen"/>pen your heart, as hee did the heart of <hi>Lydia,</hi>
+               <note place="margin">Acts 16 12.</note> that you may diligent<g ref="char:EOLhyphen"/>ly attend to that which ſhall bee taught; that ſo GOD by his holy Spirit working with the Miniſtrie of his meſſenger, they may in the great harveſt of ſoules ſtand before the
+<pb n="259" facs="tcp:150963:142"/> Lord with great com<g ref="char:EOLhyphen"/>fort, and bouldnes, and joyfull ſay, <hi>Behold heere are we,</hi>
+               <note place="margin">Heb. 2.13.</note> 
+               <hi>and the children, which God hath given us. which is their joy &amp; glory.</hi>
+            </p>
+         </div>
+         <div n="Z" type="part">
+            <head>Z.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 69. verſ. 9.</hi>
+                  </bibl>
+                  <p>
+                     <hi>The ZEALE</hi> of thine houſe hath eaten me up.</p>
+               </q>
+            </epigraph>
+            <p n="1">1. COVETOVSNESSE is a Leaprie,
+<pb n="260" facs="tcp:150963:142"/> which did not onely infect the common ſort of people, but appeared alſo in the Prieſts skinne; yea it had ſpread, to their harts and rather then any one ſhould thinke to bee excuſed (by rea<g ref="char:EOLhyphen"/>ſon of his long jour<g ref="char:EOLhyphen"/>ney) from his ſacrifice at the Paſover, the Houſe of God ſhall be made an Houſe of Marchandiſe for ſuch neceſſaries as were
+<pb n="259" facs="tcp:150963:143"/> then required. Chriſt ſeeing this, winkes not at it, but was ſo enfla<g ref="char:EOLhyphen"/>med, that he whipt the<g ref="char:cmbAbbrStroke">̄</g> all forth; fulfilling that Scripture, <hi>The zeale of thine houſe hath eaten mee .up</hi>
+            </p>
+            <p>And becauſe every ac<g ref="char:EOLhyphen"/>tion of Chriſt, ought to be a patterne for us, to doe the like, though not the ſame, Therefore let it be thy care to bee eaten up with the zeale of Gods houſe, (i: e)
+<pb n="260" facs="tcp:150963:143"/> to be <hi>zealouſly affected allwayes in good things;</hi>
+               <note place="margin">Gal. 4.18</note> thinke it not enough to ſave one, by caring onely for thine owne ſelfe, but labour ro re<g ref="char:EOLhyphen"/>duce others, when thou ſeeſt them ſtraying fro<g ref="char:cmbAbbrStroke">̄</g> the good way. Re<g ref="char:EOLhyphen"/>prove ſinne whereſo<g ref="char:EOLhyphen"/>ever, and in whom<g ref="char:EOLhyphen"/>ſoever thou eſpieſt it. Remember, that ſer<g ref="char:EOLhyphen"/>vant was condem<g ref="char:EOLhyphen"/>ned, not for looſing,
+<pb n="263" facs="tcp:150963:144"/> but becauſe he had not made advantage of his Talent:<note place="margin">Mat. 25.27</note> So will it bee with thee, if (as much as in thee lyeth) thou ſeeke not to win ſouls unto Chriſt. Be zealous therefore and amend, repent, and in all things be a means to bring o<g ref="char:EOLhyphen"/>thers to Repentance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:150963:144"/>
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>Tho. Wykes</signed>
+               <dateline>
+                  <date>March 27. 1637.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
